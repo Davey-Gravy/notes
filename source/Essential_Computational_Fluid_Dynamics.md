@@ -18,14 +18,35 @@ Consider element with velocity $\boldsymbol{V}(x,y,z,t)$ in fluid with density o
 	1. Time varying part at given location
 	2. Part due to motion of element
 
-Volume changes as result of flow:$$\frac{1}{\delta\mathcal{V}}\frac{d(\delta\mathcal{V})}{dt}=\frac{\partial u}{\partial x}+\frac{\partial v}{\partial y}+\frac{\partial w}{\partial z}=\nabla\cdot \boldsymbol{V}$$
+Volume changes as result of flow:
+$$
+\frac{1}{\delta\mathcal{V}}\frac{d(\delta\mathcal{V})}{dt}=\frac{\partial u}{\partial x}+\frac{\partial v}{\partial y}+\frac{\partial w}{\partial z}=\nabla\cdot \boldsymbol{V}
+$$
 
 ### Mass Conservation
 Consider fluid element $\delta\mathcal{V}$
-- mass $\delta m=\rho\delta\mathcal{V}$ must be constant$$\frac{d(\rho\delta\mathcal{V})}{dt}=\delta\mathcal{V}\frac{D\rho}{Dt}+\rho\frac{d(\delta\mathcal{V})}{dt}=0$$
-Divide by $\delta\mathcal{V}$ to get the *continuity equation*:$$\frac{1}{\delta\mathcal{V}}\frac{d(\delta\mathcal{V})}{dt}=\frac{D\rho}{Dt}+\rho\nabla\cdot \boldsymbol{V} = 0$$
-Can be rewritten as:$$\frac{\partial\rho}{\partial t} + V\cdot\nabla\rho+\rho\nabla\cdot \boldsymbol{V} = \frac{\partial\rho}{\partial t} + \nabla\cdot(\rho \boldsymbol{V}) = 0$$
-For incompressible fluid:$$\nabla\cdot V=0$$
+- mass $\delta m=\rho\delta\mathcal{V}$ must be constant
+$$
+\frac{d(\rho\delta\mathcal{V})}{dt}=\delta\mathcal{V}\frac{D\rho}{Dt}+\rho\frac{d(\delta\mathcal{V})}{dt}=0
+$$
+
+Divide by $\delta\mathcal{V}$ to get the *continuity equation*:
+
+$$
+\frac{1}{\delta\mathcal{V}}\frac{d(\delta\mathcal{V})}{dt}=\frac{D\rho}{Dt}+\rho\nabla\cdot \boldsymbol{V} = 0
+$$
+
+Can be rewritten as:
+
+$$
+\frac{\partial\rho}{\partial t} + V\cdot\nabla\rho+\rho\nabla\cdot \boldsymbol{V} = \frac{\partial\rho}{\partial t} + \nabla\cdot(\rho \boldsymbol{V}) = 0
+$$
+
+For incompressible fluid:
+
+$$
+\nabla\cdot V=0
+$$
 ### Conservation of Chemical Species
 Transport via diffusion quantified by $\boldsymbol{J}_i(x,t)$
 - denotes direction and rate of mass flux of species *i*

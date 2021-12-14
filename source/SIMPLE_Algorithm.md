@@ -1,7 +1,11 @@
 # SIMPLE Algorithm
-- Used to solve the steady-state [[Navier-Stokes Equations]]
-$$\nabla\cdot \boldsymbol{U} = 0$$
-$$\boldsymbol{U}\cdot\nabla\boldsymbol{U}-\nabla\cdot(\nu\nabla\boldsymbol{U})=-\nabla p$$
+- Used to solve the steady-state [Navier-Stokes Equations](Navier-Stokes_Equations.md)
+$$
+\nabla\cdot \boldsymbol{U} = 0
+$$
+$$
+\boldsymbol{U}\cdot\nabla\boldsymbol{U}-\nabla\cdot(\nu\nabla\boldsymbol{U})=-\nabla p
+$$
 - 4 equations for 4 unknowns ($U_x$, $U_y$, $U_z$, $p$)
 	- $p = p/\rho$ (kinematic pressure)
 
