@@ -1,3 +1,0 @@
-# Books
-- [[Loonshots]]
-- [[Spirtual Ecology]]
