@@ -32,4 +32,3 @@ Base 16:
 0xDEADBEEF
 $$16^7\quad16^6\quad16^5\quad16^4\quad16^3\quad16^2\quad16^1\quad16^0$$
 
-tags: #computerscience #c 

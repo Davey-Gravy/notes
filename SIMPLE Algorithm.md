@@ -1,4 +1,5 @@
 # SIMPLE Algorithm
+- **S**emi-**I**mplicit **M**ethod for **P**ressure-**L**inked **E**quations
 - Used to solve the steady-state [[Navier-Stokes Equations]]
 $$\nabla\cdot \boldsymbol{U} = 0$$
 $$\boldsymbol{U}\cdot\nabla\boldsymbol{U}-\nabla\cdot(\nu\nabla\boldsymbol{U})=-\nabla p$$
@@ -85,5 +86,3 @@ Can be done for other parameters (energy, turbulence, species transport, etc.)
 	- use an equation of state to calculate density (if flow is non-isothermal)
 - "*density-based*" algorithms are preferred for compressible flow
 	- density is computed directly from the continuity equation, equation of state is used to compute pressure
-
-#theory

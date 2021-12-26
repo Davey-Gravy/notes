@@ -28,5 +28,3 @@ Dimensionless velocity and temperature profiles are needed for generality across
 The friction velocity $u_\tau$ can be expressed in terms of the wall shear stress ($y^+$) or the turbulent kinetic energy ($y^*$)
 $$u_\tau = \sqrt{\frac{|\tau_w|}{\rho}}\qquad u_\tau = \sqrt{C_\mu^{1/2}k}\quad C_\mu = 0.09$$$$y^+, y^* = \frac{\rho u_\tau y}{\mu}$$
 The final wall function for kinematic viscosity:$$\nu_w = \begin{cases} \nu & y^+ < 11.25 \\ \nu\Big(\frac{y^+}{\frac{1}{\kappa}\log(Ey^+)}\Big) & y^+ > 11.25\end{cases}$$
-
-#theory

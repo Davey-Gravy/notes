@@ -22,5 +22,3 @@ Implmeneted in both Excel and GurobiPy
 - could be more effective if dynamically updated as parts used
 - other parameters could be included
 	- inventory cost, etc.
-
-#OPTI #optimization

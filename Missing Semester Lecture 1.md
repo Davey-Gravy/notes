@@ -35,5 +35,3 @@ Change where input and output streams of program are pointed
 ### Root User
 * Linux/Mac equivalent of Windows Adminstrator
 * "superuser"
-
-tags: #computerscience #programming 

@@ -38,4 +38,3 @@ $$
 - If the objective function is to be maximized, $a_1$ must equal 0 since it will drive the function's value down
 - If $a_1 \geq 0$ in the optimal solution, the problem is not feasible
 
-#OPTI #simplex #optimization

@@ -49,4 +49,3 @@ In the US, renewables not about energy security, but environmental impact
 Network externality
 - larger network -> growth
 
-#ECON #economics

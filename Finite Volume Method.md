@@ -84,5 +84,3 @@ $$\int_V[\nabla\cdot\boldsymbol{UU}]\,dV\approx\sum_{i=1}^M\boldsymbol{U}_{fi}F_
 
 Leads to both diagonal and off-diagonal terms in the $\mathcal{M}$ matrix
 - cell with 6 neighbors will have one diagonal term, 6 off-diagonal terms
-
-#theory

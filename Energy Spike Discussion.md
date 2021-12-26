@@ -83,5 +83,3 @@ Challenges for variables RES
 5. Markets for power
 6. Risk management, long term contracting
 
-
-#ECON #economics #energyspike #energytransition 

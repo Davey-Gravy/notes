@@ -4,5 +4,3 @@
 - Recommended that all cells have a determinant value > 0.2
 
 ![[images/determinant.png]]
-
-#meshing

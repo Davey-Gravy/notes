@@ -42,5 +42,3 @@ Achieved 100% enrollment in core courses, 93% enrollment in elective courses
 ## Discussion
 Difficulty in expanding?
 - article uses a different method for larger problem, finds near-optimal solution
-
-#OPTI #optimization 

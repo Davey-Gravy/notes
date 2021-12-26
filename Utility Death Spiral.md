@@ -65,5 +65,3 @@ Distributed gen still needs grid to import/export
 
 ### Recommendations
 
-
-#ECON #economics 

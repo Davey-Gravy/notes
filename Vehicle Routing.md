@@ -23,5 +23,3 @@ Date: 20/10/2021
 - Why use OR-Tools?
 	- Vast library, more choices
 		- Specific module for routing problem
-
-#OPTI #optimization 

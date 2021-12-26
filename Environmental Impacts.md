@@ -13,4 +13,3 @@
 - dust emissions
 - water emissions
 
-#EIIP #climatechange 

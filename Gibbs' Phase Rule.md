@@ -6,4 +6,3 @@ $$P + F = C+2 -R$$
 - C - # of chemical components
 - R - # number of restrictions
 
-#EIIP 

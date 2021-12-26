@@ -17,7 +17,7 @@ $$\phi_f=\psi\phi_N+(1-\psi)\phi_P$$
 	- *second-order accurate*
 	- *unbounded* scheme
 		- prone to oscillations
-- Used for the diffusiuon term of [[Navier-Stokes Equations]]
+- Used for the diffusion term of [[Navier-Stokes Equations]]
 $$\frac{\partial\boldsymbol{U}}{\partial t}+\nabla\cdot(\boldsymbol{UU})=-\frac{1}{p}+\underbrace{\nu\nabla^2\boldsymbol{U}}+\boldsymbol{g}$$
 - Do not use for the convection term in RANS solvers
 $$\frac{\partial\boldsymbol{U}}{\partial t}+\underbrace{\nabla\cdot(\boldsymbol{UU})}=-\frac{1}{p}+\nu\nabla^2\boldsymbol{U}+\boldsymbol{g}$$
@@ -66,4 +66,3 @@ $$\phi_f = \Psi\phi_{UD}+(11-\Psi)\phi_{CD}$$
 		- use central differencing for stable areas of solution
 		- upwind differencing for oscillating areas
 
-#theory

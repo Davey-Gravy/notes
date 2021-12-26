@@ -54,4 +54,3 @@ Grid Convergence Index:
 $$GCI_{21}=\frac{1.25e_{21}}{r^p-1}$$
 An improvement upon relative error
 
-#meshing

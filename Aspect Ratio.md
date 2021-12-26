@@ -8,4 +8,3 @@ $$\text{Aspect ratio} = \frac{\text{Longest side}}{\text{Shortest side}}$$
 	- 2D - directly uses side lengths
 	- 3D - creates a bounding box around cell, calculates areas of each face
 
-#meshing

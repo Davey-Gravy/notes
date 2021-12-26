@@ -1,3 +1,4 @@
+# Geothermal Economics
 Based on *Geothermal Handbook (ESMAP 2012)*
 ## Geothermal Energy
 ### High Temperature Field
@@ -98,5 +99,3 @@ Maximize:
 $$\underbrace{\Pi}_\text{profit}=\sum_{i=1}^n(\underbrace{I(P_i,E_i)}_\text{income}-\underbrace{C_w(N_i,N_{i-1}-C_{\text{om}}(E_i,N_i))}_\text{variable costs}e^{-r(i-1)\Delta t}-\sum_{j=1}^m\underbrace{C_p(E_{pj})}_\text{construction cost}e^{-r(j-1)\Delta t_p}$$
 Constraints:
 $$\underbrace{S_i}_\text{current stock} = \underbrace{S_{i-1}}_\text{stock from previous time period}-\underbrace{E_i\Delta t}_\text{energy used}+\underbrace{R(S_{i-1})\Delta t}_\text{energy recharged}$$
-
- #ECON #geothermal #economics

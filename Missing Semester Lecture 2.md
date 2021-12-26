@@ -24,5 +24,3 @@ find . -path '**/test/*.py' -type f
 ```
 
 From the current working directory, find python files in the `test` subdirectory
-
-tags: #shellscripting #computerscience #programming

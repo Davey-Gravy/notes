@@ -10,4 +10,3 @@
 	- but Icelandic Al is cleanest Al
 		- carbon leakage -> 9 mil tonnes CO<sub>2</sub> extra
 
-#EIIP #energytransition #fueltransition #efuels

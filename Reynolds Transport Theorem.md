@@ -21,4 +21,3 @@ $$\Sigma \vec{F}-\int_{CV}\vec{a}_{rf}\rho dV=\frac{\partial}{\partial t}\int_{C
 Conservation of energy:
 $$\dot{Q}-\dot{W}_{sh}-\dot{W}_{vs}=\frac{\partial}{\partial t}\int_{CV}(\tilde{u}+u^2/2+gz)\rho dV+\int_{CS}(h+u^2/2+gz)\rho(\vec{u}\cdot\vec{n})dA$$
 
-#theory

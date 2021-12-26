@@ -65,4 +65,3 @@ Anode burn-off
 - protruding "wart" on bottom of anode
 	- dusting in the cell
 
-tags: #aluminumproduction #EIIP #casestudy

@@ -27,4 +27,3 @@ AC current
 	- nonuniform current distribution due to induced magnetic field
 
 
-#EIIP #siliconproduction #aluminumproduction 

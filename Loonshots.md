@@ -53,5 +53,3 @@ Inspired by Vannevar Bush and Theodore Vail
 	- Celebrate results, not rank
 - Bring a gun to a knife fight
 	- Value of good talent is at an all-time high; invest in a chief incentives officer
-
-tags: #innovation #entrepreneurship #management #book

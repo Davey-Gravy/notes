@@ -14,5 +14,3 @@ Optimal solution called $\mathbf{x}_{LP}^{(k)}$
 $$\mathbf{x} = \mathbf{x}^{(k-1)}+t\big(\mathbf{x}_{LP}^{(k)}-\mathbf{x}^{(k-1)}\big)$$
 Plug $\mathbf{x}$ into original objective function $f{\mathbf{x}}$, differentiate wrt $t$, set equal to zero
 
-Stopping rule:
-#OPTI #optimization #nonlinearprogramming 

@@ -24,9 +24,3 @@ $$
 \end{alignat}
 $$
 Tools such as the [[Simplex Method]] can be used to determine the optimal solution.
-
-|     |     | --  |     |
-| --- | --- | --- | --- |
-|     |     |     |     |
-
-#OPTI #optimization #linearprogramming 
