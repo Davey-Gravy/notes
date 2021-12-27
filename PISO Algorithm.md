@@ -127,4 +127,26 @@ $$
 		2. The PISO Algorithm
 			- Solve the momentum predictor only once
 				-  Perform "inner loops" until the pressure equation converges
-	
+				-  Repeating the outer corrector loop to convergence for each time step too expensive
+
+1. Solve momentum corrector
+
+$$
+\boldsymbol{\mathcal{M}U}=-\nabla p
+$$
+
+2. Perform inner loop
+
+$$
+\begin{gather}\boldsymbol{\mathcal{H}}=\boldsymbol{\mathcal{A}U}-\boldsymbol{\mathcal{M}U}\\\nabla\cdot(\boldsymbol{\mathcal{A}}^{-1}\nabla p)=\nabla\cdot(\boldsymbol{\mathcal{A}}^{-1}\boldsymbol{\mathcal{H}})\\\boldsymbol{U}=\boldsymbol{\mathcal{A}}^{-1}\boldsymbol{\mathcal{H}}-\boldsymbol{\mathcal{A}}^{-1}\nabla p\end{gather}
+$$
+
+### Under-Relaxation
+
+- If time step is sufficiently small $(Co <1)$
+	- 1 momentum predictor + 2 inner correctors for partial convergence
+	- Under-relaxation not needed since $Co<1$ --> strong diagonal dominance
+
+### Non-Orthogonal Correctors
+
+If the mesh is non-orthogonal, the pressure equation requires additional iterations 
