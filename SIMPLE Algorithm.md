@@ -85,12 +85,12 @@ $$
  - $\boldsymbol{\mathcal{H}}$ is found using the off-diagonal terms and velocity from the previous iteration:
 
 $$
-\boldsymbol{\mathcal{H}}=\boldsymbol{\mathcal{A}}\boldsymbol{U}-\\boldsymbol{\mathcal{M}}\boldsymbol{U}
+\boldsymbol{\mathcal{H}}=\boldsymbol{\mathcal{A}}\boldsymbol{U}-\boldsymbol{\mathcal{M}}\boldsymbol{U}
 $$
 
 Now a pressure equation can be derived by rearranging the momentum equation:
 $$
-\boldsymbol{\mathcal{A}}\boldsymbol{U}-\\boldsymbol{\mathcal{H}}=-\nabla p
+\boldsymbol{\mathcal{A}}\boldsymbol{U}-\boldsymbol{\mathcal{H}}=-\nabla p
 $$
 
 $$

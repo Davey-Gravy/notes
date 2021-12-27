@@ -1,4 +1,4 @@
-git# PIMPLE Algorithm
+# PIMPLE Algorithm
 
 *From the [OpenFOAM Wiki](https://openfoamwiki.net/index.php/OpenFOAM_guide/The_PIMPLE_algorithm_in_OpenFOAM)*
 

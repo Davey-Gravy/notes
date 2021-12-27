@@ -30,8 +30,15 @@ Use [[Gibbs' Phase Rule]]
 - Si, C, O --> C = 3
 - P<sub>total</sub> = 1 atm --> R = 1
 	- nothing airtight
-$$P+F = 3+2-1$$
-$$P+F = 4$$
+
+$$
+P+F = 3+2-1
+$$
+
+$$
+P+F = 4
+$$
+
 - 1 gas phase + (max) 3 condensed phases
 
 | P (cond) | F   | Properties                                         |
@@ -39,7 +46,9 @@ $$P+F = 4$$
 | 1        | 2   | *T*, *p<sub>SiO</sub>*                             |
 | 2        | 1   | *T*, *p<sub>SiO</sub>*, *p<sub>SiO</sub>* = *f(T)* |
 | 3        | 0   | *T*, *p<sub>SiO</sub>* = constant                  | 
+
 ### *P* = 3
+
 Two possible combinations:
 1. SiO<sub>2</sub> - SiC - C
 	- invariant point at 1512&deg C
@@ -47,6 +56,7 @@ Two possible combinations:
 	- invariant point at 1811&deg C
 
 ### *P* = 2
+
 - 1 degree of freedom
 - 5 possible combinations:
 	1. SiO<sub>2</sub> - Si --> SiO<sub>2</sub> + Si = 2SiO<sub>(g)</sub>
@@ -58,30 +68,52 @@ Two possible combinations:
 Higher temperature yields lower SiO pressure, higher CO pressure
 
 ### Condensation reactions
-$$\ce{2SiO_{(g)} = SiO2 + Si}$$
-$$\ce{3SiO_{(g)} + CO_{(g)} = SiC + 2SiO2}$$
+
+$$
+\ce{2SiO_{(g)} = SiO2 + Si}
+$$
+
+$$
+\ce{3SiO_{(g)} + CO_{(g)} = SiC + 2SiO2}
+$$
+
 - most or all SiO should be captured
 
 ### Summary
+
 - at T > 1512&degC, SiO reacts with C to form SiC and CO
 - SiO gas will condense with CO to SiC and SiO<sub>2</sub> at lower temperatures
 - at T > 1811&degC, SiC will react with SiO gas to form Si 
+- 
 ### Low temperature zone (1512&#176;C < T < 181&#176;C)
-$$\begin{align}
+
+$$
+\begin{align}
 \ce{2SiO_{(g)} + 4C_{(s)} &\longrightarrow 2SiC_{(s)} + 2CO_{(g)}}\\
 \ce{2SiO_{(g)} &\longrightarrow SiO2_{(s)} + Si_{(l)}}\\
-\end{align}$$
+\end{align}
+$$
+
 - All carbon should react without reaching the high temperature zone
+- 
 ### High temperature zone (T > 1820&#176;C)
-$$\ce{3SiO2_{(s)} + 2SiC_{(s)} \longrightarrow Si_{(l)} + 4SiO_{(g)} + 2CO_{(g)}}$$
+
+$$
+\ce{3SiO2_{(s)} + 2SiC_{(s)} \longrightarrow Si_{(l)} + 4SiO_{(g)} + 2CO_{(g)}}
+$$
 
 #### Boudouard reaction
-$$\ce{C + CO2 \longrightarrow 2CO}$$
+
+$$
+\ce{C + CO2 \longrightarrow 2CO}
+$$
+
 - equilibrium between CO, CO<sub>2</sub>, and C dependent on temperature
 - at temperature of silicon reaction, CO is dominant species
 
 
 #### Silicon recovery
+
 - ratio of Si in metal to Si in quartz
 - depends on:
 	- temperature in crater
@@ -93,6 +125,7 @@ $$\ce{C + CO2 \longrightarrow 2CO}$$
 	- [[Fix-C]]
 
 ### Summary of whole process
+
 1. Raw materials from harbor transported to storage
 2. Conveyor belted to day bins, are weighed, analyzed
 3. Raw material fed into furnace through charging tubes

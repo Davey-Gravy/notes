@@ -1,4 +1,5 @@
 ## Core Principle
+
 - writing is not the outcome of thinking, but the thinking itself
 	- use writing as a process for understanding
 	- tool to return to a previous head space or way of thinking

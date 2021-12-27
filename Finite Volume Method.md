@@ -121,7 +121,7 @@ where $\boldsymbol{U}^{i-1}$ is the value from the previous iteration, which lin
 - Will consider just convection term
 	- diffusion term requires orthogonal correctors
 
-Consider Gauss's divergence theorem:
+Consider [[Gauss Divergence Theorem|Gauss's divergence theorem]]:
 
 $$
 \int_V\nabla\cdot\boldsymbol{F}dV=\int_S\boldsymbol{F}\cdot\hat{\boldsymbol{n}}\,dS
