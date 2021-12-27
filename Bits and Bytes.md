@@ -8,7 +8,11 @@ Byte
 	* used to represent data
 
 Bits ordered by significance, left to right:
-$$2^7\quad2^6\quad2^5\quad2^4\quad2^3\quad2^2\quad2^1\quad2^0$$
+
+$$
+2^7\quad2^6\quad2^5\quad2^4\quad2^3\quad2^2\quad2^1\quad2^0
+$$
+
 First term has largest magnitude
 ### Decimal to Binary
 | Divide | Number | Remainder |
@@ -30,5 +34,8 @@ Base 16:
 0b1100 1101 1010 1100 1011 1110 1110 1111
 #### Hexadecimal to Decimal
 0xDEADBEEF
-$$16^7\quad16^6\quad16^5\quad16^4\quad16^3\quad16^2\quad16^1\quad16^0$$
+
+$$
+16^7\quad16^6\quad16^5\quad16^4\quad16^3\quad16^2\quad16^1\quad16^0
+$$
 

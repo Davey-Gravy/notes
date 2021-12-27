@@ -29,9 +29,11 @@
 ## Algorithms
 
 - [[SIMPLE Algorithm]]
+- [[PISO Algorithm]]
 
 ## Software Packages
 
 - OpenFOAM
+	- [[OpenFOAM Solvers]]
 	- [[OpenFOAM Discretization Schemes]]
 - ANSYS Fluent

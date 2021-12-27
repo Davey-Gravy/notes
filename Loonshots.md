@@ -1,12 +1,18 @@
 # Loonshots
+
 Loonshot: a high-risk, a high reward business endeavor
+
 The author's argument:
+
 > 1. The most important breakthroughs come from loonshots
 > 2. Large teams are needed to bring these breakthroughs to market
 > 3. The science of phase transitions provides a framework for nurturing loonshots
 ## The Bush-Vail Rules
+
 Inspired by Vannevar Bush and Theodore Vail
+
 ### 1. Separate the phases
+
 - Separate artists and soldiers
 	- Creativity breeds creativity. Once the breakthrough is discovered, pass it along to those who can best bring it to market
 	- Impossible to be both solid ice and liquid water at the same time
@@ -18,14 +24,18 @@ Inspired by Vannevar Bush and Theodore Vail
 	- Don't focus on one type of loonshot
 		- P-type - a breakthrough in technology that brings a new product to market
 		- S-type - a revolution in business structure and operation that increases market share and profit
+
 ### 2. Create dynamic equilibrium
+
 - Love your artists and soldiers equally
 	- Birds of a feather flock together, but appreciate your distant cousins; everyone wants to succeed
 - Manage the transfer, not the technology
 	- Leaders should not assume authority over the loonshot; create a robust feedback loop between artists and soldiers to refine the loonshot
 - Appoint and train project champions to bridge the divide
 	- Engineers can be really bad at communicating and/or promoting their technology. Train others to identify great ideas and promote them
+
 ### 3. Spread a system mindset
+
 - Keep asking why
 	- Level 0: Don't analyze failures
 	- Level 1: Analyze only failures
@@ -38,7 +48,9 @@ Inspired by Vannevar Bush and Theodore Vail
 	- What analysis was performed?
 	- How did company/market conditions affect the result?
 - Identify teams with outcome mindset and help them adopt system mindset
+
 ### 4. Raise the magic number
+
 - Reduce return-on-politics
 	- Company structure can incentivize politicking for compensation, promotion as opposed to innovating
 - Use soft equity
