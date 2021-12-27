@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "dc63e6b354efc594",
+    "type": "split",
+    "children": [
+      {
+        "id": "6877215ef78c1831",
+        "type": "leaf",
+        "dimension": 33.61994840928633,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bits and Bytes.md",
+            "mode": "source"
+          }
+        },
+        "group": "168bb49a1de45932"
+      },
+      {
+        "id": "29f5937fc3e8220f",
+        "type": "leaf",
+        "dimension": 66.38005159071366,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bits and Bytes.md",
+            "mode": "preview"
+          }
+        },
+        "group": "168bb49a1de45932"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d004802af5c45e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ac6ae9d12d23cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb0cedb0d5c2ccc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56394a168941d16c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193
+  },
+  "right": {
+    "id": "0e589c61991e7e51",
+    "type": "split",
+    "children": [
+      {
+        "id": "64993a5ad784016a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa24b465e995a93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bits and Bytes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a442f74d3659b5a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "51a35d0ad0e96a12",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6877215ef78c1831",
+  "lastOpenFiles": [
+    "CS and Programming/Comprehensive Software Development Using C++/Bits and Bytes.md",
+    "CS and Programming/Missing Semester/Missing Semester Lecture 1.md",
+    "CS and Programming/Missing Semester/Missing Semester Lecture 2.md",
+    "CS and Programming/Missing Semester/Lecture 2 - Shell Tools and Scripting.md",
+    "CS and Programming/Missing Semester/Lecture 1 - Course Overview + The Shell.md",
+    "Smart Notes.md",
+    "Loonshots.md",
+    "Note-taking/Smart Notes.md",
+    "Books/Loonshots.md",
+    "Untitled.md"
+  ]
+}

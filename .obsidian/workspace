@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "dc63e6b354efc594",
+    "type": "split",
+    "children": [
+      {
+        "id": "f388f5a6ba2f4e48",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eigenvalues and Eigenvecotrs.md",
+            "mode": "source"
+          }
+        },
+        "group": "ac78721bb84f5ab9"
+      },
+      {
+        "id": "0b6e2b87b1bed381",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Eigenvalues and Eigenvecotrs.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ac78721bb84f5ab9"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d004802af5c45e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ac6ae9d12d23cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdb0cedb0d5c2ccc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "56394a168941d16c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5
+  },
+  "right": {
+    "id": "0e589c61991e7e51",
+    "type": "split",
+    "children": [
+      {
+        "id": "64993a5ad784016a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa24b465e995a93",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Eigenvalues and Eigenvecotrs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aea808986cf16a78",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f388f5a6ba2f4e48",
+  "lastOpenFiles": [
+    "Eigenvalues and Eigenvecotrs.md",
+    "Electrodes.md",
+    "Aluminum Production.md",
+    "Aspect Ratio.md",
+    "Equiangle Skewness.md",
+    "Fluids.md",
+    "Pressure.md",
+    "Specific Gravity.md",
+    "Smart Notes.md",
+    "Machine Learning.md"
+  ]
+}
