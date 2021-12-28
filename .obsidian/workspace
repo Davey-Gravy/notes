@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eigenvalues and Eigenvecotrs.md",
+            "file": "Line Integrals.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Eigenvalues and Eigenvecotrs.md",
+            "file": "Line Integrals.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eigenvalues and Eigenvecotrs.md",
+                "file": "Line Integrals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "f388f5a6ba2f4e48",
   "lastOpenFiles": [
-    "Eigenvalues and Eigenvecotrs.md",
+    "Line Integrals.md",
     "Electrodes.md",
+    "Eigenvalues and Eigenvecotrs.md",
     "Aluminum Production.md",
     "Aspect Ratio.md",
     "Equiangle Skewness.md",
     "Fluids.md",
     "Pressure.md",
     "Specific Gravity.md",
-    "Smart Notes.md",
-    "Machine Learning.md"
+    "Smart Notes.md"
   ]
 }
