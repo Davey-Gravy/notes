@@ -1,23 +1,32 @@
 # Geothermal Economics
 Based on *Geothermal Handbook (ESMAP 2012)*
+
 ## Geothermal Energy
+
 ### High Temperature Field
+
 - Heat source
 	- magma or hot rock
 - Convective system
 	- heat convects down from sides, upwards over heat source
+
 ### Location
+
 **High-temperature** geothermal found near:
 - volcanic areas
 	- often close to tectonic plate boundaries
 	- may not be easily accessible, populated area
+
 ### Types and Uses
+
 | Resource Type         | Goegraphical/Geological Location                           | Use/Technology                                                                    |
 | --------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | High: &g;200&#176C    | Boundaries of tectonic plates, hot spots, volcanic areas   | Power generation: conventional steam, flash, double flash, dry steam technology   |
 | Medium: 150-200&#176C | Sedimentary geology or adjacent to high temp. resources    | Power gen. w/ binary power plants                                                 |
 | Low: &l;150&#176C     | Exist in most countries, 150&#176C found at depth of ~5 km | Direct use (space and process heating), limited power gen. w/ binary power plants |                      |                                                            |                                                                                   |
+
 ### Pros and Cons
+
 | Advantage                                                     | Challenge                                               |
 | ------------------------------------------------------------- | ------------------------------------------------------- |
 | Globally inexhaustible                                        | Locally exhaustible                                     |
@@ -27,8 +36,10 @@ Based on *Geothermal Handbook (ESMAP 2012)*
 | Non-intermittent (strong base-load resource)                  | Limited ability to follow/respond to demand             |
 | Relatively low cost per kWh                                   | High risk, investment cost, long development cycle      |
 | Proven/mature technology                                      | Require sophisticated maintenance                       |
-| Scalable to utility size without much land use                | Requires extensive drilling                                                        |
+| Scalable to utility size without much land use                | Requires extensive drilling                             |
+
 ### Geothermal Development in Iceland
+
 | Plant           | Electric Capacity |
 | --------------- | ----------------- |
 | 1. Bjaranarflag | 3.2 MW            |
@@ -40,6 +51,7 @@ Based on *Geothermal Handbook (ESMAP 2012)*
 | 7. Hellishedi   | 213 MW            | 
 
 ### Power Generation Technologies
+
 | Technology    | % of 67 TWh total |
 | ------------- | ----------------- |
 | Single flash  | 42                |
@@ -49,11 +61,14 @@ Based on *Geothermal Handbook (ESMAP 2012)*
 | Back pressure | 4                 |
 
 #### Single Flash
+
  - flash - drop pressure of geothermal fluid
 	 - increases steam content
 	 - done twice for double flash
  - separate geothermal fluid from steam before entering turbine
+
 ### Multiple Uses
+
 Energy and waste can be used for other processes:
 - fish farming
 - greenhouses
@@ -61,6 +76,7 @@ Energy and waste can be used for other processes:
 - crop drying
 
 ### Costs
+
 - Power plant 35%
 - Drilling 34%
 - Steam collection system
@@ -71,6 +87,7 @@ Further depends on:
 - Geology and geography
 
 ### System demand
+
 - Total geothermal capacity should not exceed minimum demand
 	- Typically not equipped to follow demand, provide base load power
 	- Often given priority dispatch
@@ -80,6 +97,7 @@ Further depends on:
 		- Turbine bypass (wastes steam)
 
 ### Reservoir Potential and Plant Size
+
 Build in steps:
 - based on preliminary surveys and test drillings
 - 30-60 MW steps, minimizes risks of
@@ -91,10 +109,12 @@ Build in steps:
 			- overuse in short term leads to loss in future capacity
 
 ### Profit Maximization Strategy
+
 - initially invest in capacity that exceeds "long-term sustainable" production
 - allow production to taper to recharge rate if drilling extra capacity too expensive
 
 ### Modified Hotelling Model
+
 Maximize:
 $$\underbrace{\Pi}_\text{profit}=\sum_{i=1}^n(\underbrace{I(P_i,E_i)}_\text{income}-\underbrace{C_w(N_i,N_{i-1}-C_{\text{om}}(E_i,N_i))}_\text{variable costs}e^{-r(i-1)\Delta t}-\sum_{j=1}^m\underbrace{C_p(E_{pj})}_\text{construction cost}e^{-r(j-1)\Delta t_p}$$
 Constraints:

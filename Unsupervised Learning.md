@@ -1,6 +1,9 @@
 # Unsupervised Learning
+
 Learning from data without target variables
+
 ## Discrete Latent Variables
+
 Unsupervised learning for classification
 - Clustering
 	- Different kinds of clustering models

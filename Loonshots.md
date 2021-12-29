@@ -7,6 +7,7 @@ The author's argument:
 > 1. The most important breakthroughs come from loonshots
 > 2. Large teams are needed to bring these breakthroughs to market
 > 3. The science of phase transitions provides a framework for nurturing loonshots
+
 ## The Bush-Vail Rules
 
 Inspired by Vannevar Bush and Theodore Vail

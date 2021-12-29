@@ -1,4 +1,5 @@
 # Large Eddy Simulation (LES)
+
 Flow separated into large eddies (dependent on geometry) and smaller eddies (universal throughout flow)
 
 - Large eddies resolved explicitly

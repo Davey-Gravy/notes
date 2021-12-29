@@ -46,7 +46,7 @@ $\text{grad(U)}\quad\text{Gauss}\quad\text{linear};$
 	- more diffusive than limited and corrected
 
 ## Recommended Setup
-```
+```c++
 ddtSchemes
 {
 	default		CrankNicolson	0;

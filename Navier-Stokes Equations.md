@@ -1,4 +1,5 @@
 # Navier-Stokes
+
 Newton's 2<sup>nd</sup> law ($\vec{F} = m\vec{a}$) for a fluid
 
 Assuming Newtonian fluid:
