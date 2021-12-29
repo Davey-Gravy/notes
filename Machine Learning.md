@@ -20,7 +20,7 @@
 	- Application of scientific method to multiple approaches
 
 ## [[Supervised Learning]]
-
+- [[Support Vector Machines (SVM)]]
 
 ## [[Unsupervised Learning]]
 - [[Gaussian Mixture Models]]

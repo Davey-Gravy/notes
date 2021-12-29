@@ -58,3 +58,5 @@ then for ease of differentiation the canonical representation is:
 $$
 \boxed{\begin{aligned}\arg\min_{\mathbf{w},b} \quad&\frac{1}{2}||\mathbf{w}||^2\\\text{s.t.}\quad&t_n(\mathbf{w}^T\phi(\mathbf{x}_n)+b)\geq 1\end{aligned}}
 $$
+
+This will be computed using the dual representation
