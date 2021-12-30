@@ -7,11 +7,8 @@
         "id": "5cf610263465e0bb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vector (Cross) Product.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         },
         "group": "a637dd478fd0a8aa"
       },
@@ -21,7 +18,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vector (Cross) Product.md",
+            "file": "Stokes' Theorem.md",
             "mode": "preview"
           }
         },
@@ -81,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector (Cross) Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +105,15 @@
   },
   "active": "5cf610263465e0bb",
   "lastOpenFiles": [
+    "Stokes' Theorem.md",
+    "Specific Gravity.md",
     "Vector (Cross) Product.md",
-    "Determinant.md",
     "Scalar (Dot) Product.md",
+    "Silicon.md",
+    "Determinant.md",
     "Conservative Vector Field.md",
     "Energy Spike Discussion.md",
     "Emergy Policy.md",
-    "Energy Policy.md",
-    "Vectors.md",
-    "Vector Addition and Subtraction.md",
-    "Untitled.md"
+    "Energy Policy.md"
   ]
 }
