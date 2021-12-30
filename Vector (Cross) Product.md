@@ -28,3 +28,4 @@ $$
 $$
 |\vec{a}\times\vec{b}|=|\vec{a}||\vec{b}|\sin\theta
 $$
+
