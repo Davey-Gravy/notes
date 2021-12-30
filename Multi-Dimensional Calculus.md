@@ -1,5 +1,9 @@
 # Multi-Dimensional Calculus
 
+$$
+f(x,y)
+$$
+
 ## Concepts
 
 - [[Line Integrals]]

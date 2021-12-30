@@ -12,5 +12,6 @@
   "updateSubmodules": false,
   "gitPath": "",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true
+  "autoBackupAfterFileChange": true,
+  "mergeOnPull": true
 }
