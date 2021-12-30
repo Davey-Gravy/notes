@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0b6e2b87b1bed381",
+        "id": "5cf610263465e0bb",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vectors.md",
+            "file": "Vector (Cross) Product.md",
             "mode": "source"
           }
         },
-        "group": "d58a58ed4473e285"
+        "group": "a637dd478fd0a8aa"
       },
       {
-        "id": "c7f51f0033e698bc",
+        "id": "32126dba8068f1fe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vectors.md",
+            "file": "Vector (Cross) Product.md",
             "mode": "preview"
           }
         },
-        "group": "d58a58ed4473e285"
+        "group": "a637dd478fd0a8aa"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vectors.md",
+                "file": "Vector (Cross) Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b6e2b87b1bed381",
+  "active": "5cf610263465e0bb",
   "lastOpenFiles": [
+    "Vector (Cross) Product.md",
+    "Determinant.md",
+    "Scalar (Dot) Product.md",
+    "Conservative Vector Field.md",
+    "Energy Spike Discussion.md",
+    "Emergy Policy.md",
+    "Energy Policy.md",
     "Vectors.md",
-    "Multi-Dimensional Calculus.md",
-    "Fundamental Theorem of Line Integrals.md",
-    "Supervised Learning.md",
-    "Machine Learning.md",
-    "Support Vector Machines (SVM).md",
-    "Hydropower Economics.md",
-    "Hall-Héroult Process.md",
-    "Large Eddy Simulation (LES).md",
-    "Navier-Stokes Equations.md"
+    "Vector Addition and Subtraction.md",
+    "Untitled.md"
   ]
 }
