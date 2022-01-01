@@ -21,4 +21,4 @@ Thomas Berry
 2. Cosmic World
 3. Human World
 	- Confucian concept of trinity of heaven, Earth, and human
-#book #climatechange #earth
+

@@ -60,3 +60,11 @@ $$
 $$
 
 This will be computed using the dual representation
+
+## Nonlinear SVMs
+
+Employ kernels:
+
+- Gaussian: $k(\mathbf{x},\mathbf{x})=\exp(-\frac{1}{2\sigma^2}||\mathbf{x}-\mathbf{z}||^2)$
+- Polynomial: $k(\mathbf{x},\mathbf{z})=(\mathbf{x}^T\mathbf{z}+C)^M$
+- Sigmoidal: $k(\mathbf{x},\mathbf{z})=\tanh(a\mathbf{x}^T\mathbf{z}+c)$

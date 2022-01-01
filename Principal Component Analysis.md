@@ -1,6 +1,12 @@
 # Principal Component Analysis
 
-Order components with highest energy (amount of information)
+Tool for dimensionality reduction, lossy data compression, feature extraction, and data visualization
+
+Definition
+
+> The orthogonal projection of high dimensional data onto a lower dimensional linear space, called the *principal subspace*, such that the variance of the projected data is maximized
+
+Orders components with highest energy (amount of information)
 
 Two definitions, same algorithm:
 1. Orthogonal projection of data onto lower dimensional space ***principal subspace***
@@ -11,6 +17,7 @@ Two definitions, same algorithm:
 		- find low dimensional space that represents observed data the best
 
 ## Maximum Variance Formulation
+
 - Start with data set $\{\mathbf{x}_n\}_{n=1}^N$ with dimension $D$
 - Project data into subspace with dimension $M<D$ while maximizing variance
 - direction of subspace given as $\mathbf{u}_1$
@@ -55,7 +62,7 @@ Algorithm:
 1. Evaluate sample mean $\bar{\mathbf{x}}$ and covariance $\mathbf{S}$
 2. Find $M$ eigenvectors of $\mathbf{S}$ containing $M$ largest eigenvalues $\{\lambda_1, \lambda_2,\dots,\lambda_M\}$
 3. Project data onto subspace using:$$\mathbf{y} = \mathbf{U}^T\mathbf{x}$$$$\mathbf{U} = [\mathbf{u}_1,\mathbf{u}_2,\dots,\mathbf{u}_M]$$
- 	- U is a matrix with eigenvectors as columns
+ 	- $\mathbf{U}$ is a matrix with eigenvectors as columns
 
 ## Minimum Error Formulation
 Start with basis whose vectors satisfy:

@@ -4,25 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf610263465e0bb",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        },
-        "group": "a637dd478fd0a8aa"
-      },
-      {
-        "id": "32126dba8068f1fe",
+        "id": "b31d8c180b484ef5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stokes' Theorem.md",
+            "file": "Continuous Latent Variables.md",
+            "mode": "source"
+          }
+        },
+        "group": "6d291a0d66d444df"
+      },
+      {
+        "id": "f1f4278039d741cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Continuous Latent Variables.md",
             "mode": "preview"
           }
         },
-        "group": "a637dd478fd0a8aa"
+        "group": "6d291a0d66d444df"
       }
     ],
     "direction": "vertical"
@@ -78,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Continuous Latent Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5cf610263465e0bb",
+  "active": "b31d8c180b484ef5",
   "lastOpenFiles": [
-    "Stokes' Theorem.md",
-    "Specific Gravity.md",
-    "Vector (Cross) Product.md",
-    "Scalar (Dot) Product.md",
-    "Silicon.md",
-    "Determinant.md",
+    "Continuous Latent Variables.md",
     "Conservative Vector Field.md",
-    "Energy Spike Discussion.md",
-    "Emergy Policy.md",
-    "Energy Policy.md"
+    "Convex Porgramming.md",
+    "Fishbone Diagram.md",
+    "Principal Component Analysis.md",
+    "Central Tendency.md",
+    "Statistics.md",
+    "Support Vector Machines (SVM).md",
+    "Unsupervised Learning.md",
+    "Supervised Learning.md"
   ]
 }
