@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stokes Streamfunction.md",
+            "file": "Potetnail Flow.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Stokes Streamfunction.md",
+            "file": "Potetnail Flow.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stokes Streamfunction.md",
+                "file": "Potetnail Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,8 @@
   },
   "active": "b31d8c180b484ef5",
   "lastOpenFiles": [
+    "Potetnail Flow.md",
+    "Vorticity.md",
     "Stokes Streamfunction.md",
     "Continuous Latent Variables.md",
     "Conservative Vector Field.md",
@@ -116,8 +118,6 @@
     "Fishbone Diagram.md",
     "Principal Component Analysis.md",
     "Central Tendency.md",
-    "Statistics.md",
-    "Support Vector Machines (SVM).md",
-    "Unsupervised Learning.md"
+    "Statistics.md"
   ]
 }
