@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continuous Latent Variables.md",
+            "file": "Stokes Streamfunction.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Continuous Latent Variables.md",
+            "file": "Stokes Streamfunction.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Continuous Latent Variables.md",
+                "file": "Stokes Streamfunction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +109,7 @@
   },
   "active": "b31d8c180b484ef5",
   "lastOpenFiles": [
+    "Stokes Streamfunction.md",
     "Continuous Latent Variables.md",
     "Conservative Vector Field.md",
     "Convex Porgramming.md",
@@ -117,7 +118,6 @@
     "Central Tendency.md",
     "Statistics.md",
     "Support Vector Machines (SVM).md",
-    "Unsupervised Learning.md",
-    "Supervised Learning.md"
+    "Unsupervised Learning.md"
   ]
 }
