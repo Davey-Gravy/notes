@@ -51,3 +51,11 @@ $$
 $$
 
 which has complex conjugate roots $\lambda=\pm i$
+
+Our general solution becomes a copmlex function:
+
+$$
+y=K_1e^{it}+K_ 2e^{-it}
+$$
+
+with $K_1$ and $K_2$ being potentially complex coefficients
