@@ -38,3 +38,16 @@ This is known as the characteristic equation/polynomial of the ODE. Finding the 
 
 ## Complex Roots
 
+Consider  the following second order, constant coefficient ODE:
+
+$$
+y''+y=0,\quad y(0)=\alpha,\quad y'(0)=\beta
+$$
+
+Substituting the exponential guess $y=Ce^{\lambda t}$ results in the characteristic polynomial
+
+$$
+\lambda^2+1=0
+$$
+
+which has complex conjugate roots $\lambda=\pm i$
