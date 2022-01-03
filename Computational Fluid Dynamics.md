@@ -7,8 +7,6 @@
 
 - [[Navier-Stokes Equations]]
 	- [[Finite Volume Method]]
-	- [[Reynolds Transport Theorem]]
-	- [[Reynolds Number]]
 - [[Wall Functions]]
 - [[Discretization Schemes]]
 
@@ -26,6 +24,7 @@
 	- [[Non-Orthogonality]]
 	- [[Equiangle Skewness]]
 - [[Mesh Refinement Studies]]
+
 ## Algorithms
 
 - [[SIMPLE Algorithm]]

@@ -1,4 +1,5 @@
 # SIMPLE Algorithm
+
 - **S**emi-**I**mplicit **M**ethod for **P**ressure-**L**inked **E**quations
 - Intended to solve the steady-state [[Navier-Stokes Equations]]
 
@@ -14,6 +15,7 @@ $$
 	- $p = p/\rho$ (kinematic pressure)
 
 ## Why is this system difficult to solve?
+
 - have equations for $U_x$, $U_y$, and $U_z$, but not $p$
 - velocities $U_x$, $U_y$, and $U_z$ must satisfy continuity
 - convection term $\nabla\cdot(\boldsymbol{U}\boldsymbol{U})$ is non-linear
@@ -23,6 +25,7 @@ The SIMPLE algorithm is a procedure to:
 1. Derive a pressure equation from the momentum and continuity equations
 2. Derive a corrector for the velocity field to ensure continuity is satsified
 ## Deriving the Equations
+
 Rewrite the momentum equations in matrix form:
 
 $$
