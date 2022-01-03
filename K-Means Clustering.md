@@ -1,9 +1,10 @@
 # K-Means Clustering
+
 - Exemplar - Old Faithful eruptions
 	- correlation -> duration of eruption and time between eruptions
 - Goal -> represent data in K clusters
 	- each cluster has prototype $\mu_k$ -> representative data point
-- [[Expectation Maximization (EM) Algorithm]] Algorithm:
+- [[Expectation Maximization (EM) Algorithm]]:
 	- Initialize prototypes (guess)
 	- E-step -> assign each data point to a cluster based on a metric between data point and prototype (Euclidean distance)
 	- M-step -> update prototype as cluster mean, based on E-step
@@ -17,9 +18,9 @@
 	- row -> data point
 - define cost function:
 	$$J = \sum_{n=1}^N\sum_{k=1}^K r_{nk}\lvert\lvert\textbf{x}_n-\boldsymbol{\mu}_k\rvert\rvert^2$$
-r<sub>nk</sub> - responsibilities
-**x**<sub>n</sub> - data
-&mu;<sub>k</sub> - prototypes
+$r_{nk}$ - responsibilities
+$\mathbf{x}_n$ - data
+$\mu_k$ - prototypes
 ### E-Step
 - minimize $J$ wrt $r_{nk}$
 	- assigns each data point to nearest prototype

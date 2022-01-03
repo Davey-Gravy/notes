@@ -1,13 +1,14 @@
 # Frank-Wolfe Algorithm
 
 Based on first-order Taylor series expansion around current trial solution
+
 1. Evaluate partial derivatives
 
 $$
 c_j = \frac{\partial f}{\partial x_j} \quad \text{at } \mathbf{x} = \mathbf{x}^{k-1}
 $$
 
-2. Formulate LP problem using partial derivatives as objjective function coefficients
+2. Formulate LP problem using partial derivatives as objective function coefficients
 
 $$
 \begin{alignat}{3}

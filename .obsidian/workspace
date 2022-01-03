@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "268dac6e4e7d9d27",
+        "id": "15659e9c4f8ee4f3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discretization Schemes.md",
+            "file": "Characteristic Equation.md",
             "mode": "source"
           }
         },
-        "group": "6bed95cc5015cca2"
+        "group": "3be4e3d3f8882c72"
       },
       {
-        "id": "cfd7f0789ce71be1",
+        "id": "250ecaa26cbf258b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Discretization Schemes.md",
+            "file": "Characteristic Equation.md",
             "mode": "preview"
           }
         },
-        "group": "6bed95cc5015cca2"
+        "group": "3be4e3d3f8882c72"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discretization Schemes.md",
+                "file": "Characteristic Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "268dac6e4e7d9d27",
+  "active": "15659e9c4f8ee4f3",
   "lastOpenFiles": [
-    "Discretization Schemes.md",
-    "OpenFOAM Discretization Schemes.md",
+    "Characteristic Equation.md",
     "Ordinary Differential Equations (ODEs).md",
-    "Separation of Variables.md",
     "Partial Differential Equations (PDEs).md",
-    "Statistics.md",
-    "Computational Fluid Dynamics.md",
-    "Fluid Mechanics.md",
-    "Reynolds Transport Theorem.md",
-    "Pressure.md"
+    "Large Eddy Simulation (LES).md",
+    "Line Integrals.md",
+    "K-Means Clustering.md",
+    "Reduction of Order.md",
+    "Method of Integrating Factors.md",
+    "Product Rule.md",
+    "Method of Separation.md"
   ]
 }

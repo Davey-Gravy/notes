@@ -94,4 +94,4 @@ Bayes' theorem
 Assign each point a probability of being in a class
 
 Can't use log maximum likelihood
-- instead use expectation maximization (EM) algorithm
+- instead use [[Expectation Maximization (EM) Algorithm|expectation maximization (EM)]] algorithm
