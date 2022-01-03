@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characteristic Equation.md",
+            "file": "Method of Undetermined Coefficients.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characteristic Equation.md",
+            "file": "Method of Undetermined Coefficients.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characteristic Equation.md",
+                "file": "Method of Undetermined Coefficients.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "15659e9c4f8ee4f3",
   "lastOpenFiles": [
-    "Characteristic Equation.md",
+    "Method of Undetermined Coefficients.md",
+    "Linear Programming.md",
+    "Line Integrals.md",
+    "Loonshots.md",
+    "Geothermal Economics.md",
     "Ordinary Differential Equations (ODEs).md",
+    "Characteristic Equation.md",
     "Partial Differential Equations (PDEs).md",
     "Large Eddy Simulation (LES).md",
-    "Line Integrals.md",
-    "K-Means Clustering.md",
-    "Reduction of Order.md",
-    "Method of Integrating Factors.md",
-    "Product Rule.md",
-    "Method of Separation.md"
+    "K-Means Clustering.md"
   ]
 }

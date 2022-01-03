@@ -27,9 +27,15 @@ $$
 
 #### Solution Methods
 
-[[Characteristic Equation]]
+- Finding roots of the [[Characteristic Equation|characteristic equation]]
 
 ### Non-homogeneous
+
+This type of equation is generally organized as:
+
+$$
+ay''+by'+cy=f(t)
+$$
 
 [[Method of Undetermined Coefficients]]
 

@@ -58,4 +58,47 @@ $$
 y=K_1e^{it}+K_ 2e^{-it}
 $$
 
-with $K_1$ and $K_2$ being potentially complex coefficients
+with $K_1$ and $K_2$ being potentially complex coefficients. To split the exponentials into real and imaginary parts, the power series representation is used:
+
+$$
+e^x=1+x+\frac{x^2}{2}+\frac{x^3}{3!}+\dots
+$$
+
+Substituting $x=it$:
+
+$$
+\begin{align}
+e^{it}&=1+it-\frac{t^2}{2}+\frac{t^3}{3!}+\dots\\
+&=\left(1-\frac{t^2}{2}+\frac{t^4}{4!}-\frac{t^6}{6!}-\dots\right)+i\left(t-\frac{t^3}{3!}+\frac{t^5}{5!}-\dots\right)
+\end{align}
+$$
+
+This results in the Euler identity:
+
+$$
+e^{it}=\cos(t)+i\sin(t)
+$$
+
+and similarly:
+
+$$
+e^{-it}=\cos(t)-i\sin(t)
+$$
+
+Selecting $K_1,\,K_2=\frac{1}{2}$, we find:
+
+$$
+y_1=\cos(t)
+$$
+
+While selecting $K_1=\frac{i}{2}$ and $K_2=-\frac{i}{2}$ results in:
+
+$$
+y_2=\sin(t)
+$$
+
+We can now generalize that for a second order, linear, constant coefficient, homogeneous ODE with complex roots $\lambda=\mu\pm i\sigma$:
+
+$$
+\boxed{y=C_1e^{\mu t}\cos(\sigma t)+C_2e^{\mu t}\sin(\sigma t)}
+$$
