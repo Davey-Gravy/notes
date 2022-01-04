@@ -1,4 +1,7 @@
-# Computational Fluid Dynamics
+# Computational Fluid Dynamics (CFD)
+
+A field that aims to simulate [[Fluid Mechanics|fluid mechanics]] using techniques of numerical analysis, [[Linear Algebra|linear algebra]], [[Multidimensional Calculus|multidimensional calculus]], and [[High-Performance Computing|high-performance computing]]
+
 ## Textbooks
 
 - [[Essential Computational Fluid Dynamics]]

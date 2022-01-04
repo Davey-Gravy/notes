@@ -17,7 +17,7 @@ $$
 P=\int dF=\int_A\sigma\,dA
 $$
 
-Axial stress distribution assumed to be uniform across area
+Axial stress distribution assumed to be uniform across area, acts through the centroid of the object.
 
 ### Shear Stress
 
@@ -27,7 +27,7 @@ $$
 \tau_\text{ave}=\frac{P}{A}
 $$
 
-Cannot be assumed to be uniformly distributed
+Cannot be assumed to be uniformly distributed.
 
 ### Axial Loading on an Oblique Plane
 
@@ -47,4 +47,14 @@ $$
 
 $$
 \sigma=\frac{P}{A_0}\cos^2\theta\quad\tau=\frac{P}{A_0}\sin\theta\cos\theta
+$$
+
+Naming convention:
+
+$$
+\begin{array}{c}
+\tau_{xy}\\
+\;\;\swarrow\;\searrow\\
+\mbox{perpedicular surface}\quad \mbox{direction of component}
+\end{array}
 $$

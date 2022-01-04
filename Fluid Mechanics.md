@@ -60,4 +60,4 @@ The net force acting on the cube is equal to the weight of the liquid displaced 
 ## Fluid Dynamics
 - [[Reynolds Transport Theorem]]
 - [[Reynolds Number]]
-- [[Computational Fluid Dynamics]]
+- [[Computational Fluid Dynamics (CFD)]]
