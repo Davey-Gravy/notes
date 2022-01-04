@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jacobian Determinant.md",
+            "file": "Stress.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Jacobian Determinant.md",
+            "file": "Stress.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jacobian Determinant.md",
+                "file": "Stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "1b697d72dd58e971",
   "lastOpenFiles": [
+    "Stress.md",
+    "Strain.md",
+    "Static Failure.md",
     "Jacobian Determinant.md",
     "Jacobian.md",
     "Determinant.md",
     "Hessian Matrix.md",
     "Bits and Bytes.md",
     "Books.md",
-    "Central Tendency.md",
-    "Characteristic Equation.md",
-    "Aluminum Production.md",
-    "Assignment_5.md"
+    "Central Tendency.md"
   ]
 }
