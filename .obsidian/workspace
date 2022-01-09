@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Failure Modes and Effects Analysis (FMEA).md",
+            "file": "State-Space Representation.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Failure Modes and Effects Analysis (FMEA).md",
+            "file": "State-Space Representation.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Failure Modes and Effects Analysis (FMEA).md",
+                "file": "State-Space Representation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "1b697d72dd58e971",
   "lastOpenFiles": [
+    "State-Space Representation.md",
+    "Transfer Function.md",
+    "Control Systems.md",
+    "Control Bootcamp.md",
     "Failure Modes and Effects Analysis (FMEA).md",
     "Expectation Maximization (EM) Algorithm.md",
     "Finite Volume Method.md",
     "Geometric Dimensioning & Tolerancing (GD&T).md",
     "Computational Fluid Dynamics (CFD).md",
-    "Multidimensional Calculus.md",
-    "Operations Research.md",
-    "Second Moment of Area.md",
-    "Perpendicular Axis Theorem.md",
-    "Parallel Axis Theorem.md"
+    "Multidimensional Calculus.md"
   ]
 }
