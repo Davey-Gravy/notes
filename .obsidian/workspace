@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "State-Space Representation.md",
+            "file": "Transfer Function.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "State-Space Representation.md",
+            "file": "Transfer Function.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State-Space Representation.md",
+                "file": "Transfer Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,10 +107,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b697d72dd58e971",
+  "active": "ccf3ba9aa8235eea",
   "lastOpenFiles": [
-    "State-Space Representation.md",
     "Transfer Function.md",
+    "State-Space Representation.md",
     "Control Systems.md",
     "Control Bootcamp.md",
     "Failure Modes and Effects Analysis (FMEA).md",
