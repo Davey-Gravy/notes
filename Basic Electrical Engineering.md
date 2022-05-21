@@ -104,4 +104,18 @@ Terminology:
 Resistors
 
 > $$v=Ri\qquad i=Gv$$
-> $$G=\frac{1}{R} \quad\left[\text{Siemens (S)}\right]$$
+> $$G=\frac{1}{R} \quad\left[\text{Siemens (S)}\right]\quad \text{conductance}$$
+
+Capacitors
+
+> $$C=\frac{Q}{V}=\frac{q}{v}$$
+*Q* - steady state charge
+*V* - steady state voltage
+*q* - transient charge
+*q* - transient voltage
+$$i=\frac{dq}{dt}$$
+$$v=\frac{1}{C}\int i\,dt\qquad\text{or}\qquad i=C\frac{dv}{dt}$$
+
+Inductors
+
+> $$v=L\frac{di}{dt}\qquad\text{or}\qquad i=\frac{1}{L}\int v\,dt$$
