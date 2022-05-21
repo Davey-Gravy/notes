@@ -119,3 +119,13 @@ $$v=\frac{1}{C}\int i\,dt\qquad\text{or}\qquad i=C\frac{dv}{dt}$$
 Inductors
 
 > $$v=L\frac{di}{dt}\qquad\text{or}\qquad i=\frac{1}{L}\int v\,dt$$
+
+## Series and Parallel Circuits
+
+Resistance:
+
+> $$R_\text{series}=\sum_{k=1}^{n}R_k\qquad R_\text{parallel}=\sum_{k=1}^{n}\left(\frac{1}{R_k}\right)^{-1}$$
+
+### [[Voltage Division]]
+
+### [[Current Division]]
