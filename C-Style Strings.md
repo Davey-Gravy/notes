@@ -46,6 +46,7 @@ my_name[5] = 'y';
 		- not terminating null character
 
 ## \#include \<cstring>
+
 Functions to handle C-style strings
 
 - Copying
