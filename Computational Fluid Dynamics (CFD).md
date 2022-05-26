@@ -35,7 +35,5 @@ A field that aims to simulate [[Fluid Mechanics|fluid mechanics]] using techniqu
 
 ## Software Packages
 
-- OpenFOAM
-	- [[OpenFOAM Solvers]]
-	- [[OpenFOAM Discretization Schemes]]
+- [[OpenFOAM]]
 - ANSYS Fluent

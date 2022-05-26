@@ -10,7 +10,7 @@
 
 # Declaration
 
-```c
+```cpp
 #include <vector>
 using namespace std;
 

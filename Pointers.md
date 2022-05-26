@@ -4,18 +4,12 @@
 - When to use pointers?
 	- Want full control of hardware in critical applications
 		- allocate/deallocate memory
-		- use pointers
+	- Can access data outside scope of function
+	- Efficient array operations
+	- Dynamic memory allocation on the heap
+		- memory doesn't have variable name, only accessible via pointer
+	- Enables [[Polymorphism | polymorphism]] for [[Object-Oriented Programming (OOP)| OOP]]
+	- Accessing specific addresses in memory
+		- useful in embedded applications
 
-# [[C++]]
-- Declaring
-- Storing addresses
-- Dereferencing
-- Dynamic memory allocation
-- Arithmetic
-- [[Arrays]]
-- [[Pass by Reference]]
-- `const`
-- Raw vs. Smart Pointers
-	- smart pointers safer to use
-		- [[Object-Oriented Programming (OOP) | OOP]]
-	- 
+[[C++ Pointers]]

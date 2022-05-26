@@ -13,7 +13,7 @@
 
 ## String Variables
 
-```c
+```cpp
 char my_name [5] {"Frank"};
 Frank\0
 ```
@@ -21,14 +21,14 @@ Frank\0
 - Defined character array of size 5
 	- "Frank" takes up indices 0-4
 	- String terminated by null character (\0)
-```c
+```cpp
 my_name[5] = 'y';
 ```
 
 - Won't work
 	- replaces terminating null character
 
-```c
+```cpp
 char my_name [8] {"Frank"};
 Frank\0\0\0
 ```
@@ -37,7 +37,7 @@ Frank\0\0\0
 	- "Frank" takes up indices 0-4
 	- String terminated by 3 null characters
 
-```c
+```cpp
 my_name[5] = 'y';
 ```
 
