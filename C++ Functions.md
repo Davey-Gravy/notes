@@ -12,4 +12,6 @@ Allow for modularization of programs
 - [[Default Argument Values]]
 - [[Function Overloading]]
 - [[Passing Arrays to Functions]]
+- [[Pass by Value]]
 - [[Pass by Reference]]
+- [[Function Calls]]

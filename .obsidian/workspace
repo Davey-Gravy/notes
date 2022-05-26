@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ordinary Differential Equations (ODEs).md",
+            "file": "Recursive Functions.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ordinary Differential Equations (ODEs).md",
+            "file": "Recursive Functions.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ordinary Differential Equations (ODEs).md",
+                "file": "Recursive Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +141,15 @@
   },
   "active": "38300ae9d8bbd09f",
   "lastOpenFiles": [
+    "Recursive Functions.md",
+    "Function Calls.md",
+    "Inline Functions.md",
+    "C++ Functions.md",
+    "Pass by Value.md",
     "Ordinary Differential Equations (ODEs).md",
     "Optimized implementation of Self-Service registers.md",
     "Potential Flow.md",
     "Passing Arrays to Functions.md",
-    "Bernoulli's Equation.md",
-    "Characteristic Equation.md",
-    "Big M Method.md",
-    "Bayes' Theorem.md",
-    "C++.md",
-    "README.md"
+    "Bernoulli's Equation.md"
   ]
 }

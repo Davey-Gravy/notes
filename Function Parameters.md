@@ -16,6 +16,6 @@ void say_hello(std::string name) {
 say_hello("Frank"); 
 ```
 
-[[Pass-By-Value]]l)
+[[Pass by Value]]l)
 
 [[Formal and Actual Parameters]]
