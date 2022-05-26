@@ -1,5 +1,5 @@
 # [[C++]]
 - formal
-	- parameter defined in [[C++ Functions|function]] header
+	- parameter defined in [[Functions|function]] header
 - actual
 	- parameter used in function call (argument)

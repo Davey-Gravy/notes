@@ -1,5 +1,5 @@
 - [[Arrays]]
 - [[Strings]]
 - [[C++ Strings]]
-- [[C++ Functions]]
+- [[Functions]]
 - [[C++ Scoping]]

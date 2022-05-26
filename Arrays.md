@@ -1,4 +1,4 @@
 - [[C++ Arrays]]
 	- [[C++ Vectors]]
-[[Python Lists]]
-[[MATLAB/Octave Arrays]]
+- [[Python Lists]]
+- [[MATLAB/Octave Arrays]]

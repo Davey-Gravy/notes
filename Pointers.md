@@ -1,0 +1,21 @@
+- What are pointers?
+	- A variable
+		- value is an address to memory *pointing* to another variable or function
+- When to use pointers?
+	- Want full control of hardware in critical applications
+		- allocate/deallocate memory
+		- use pointers
+
+# [[C++]]
+- Declaring
+- Storing addresses
+- Dereferencing
+- Dynamic memory allocation
+- Arithmetic
+- [[Arrays]]
+- [[Pass by Reference]]
+- `const`
+- Raw vs. Smart Pointers
+	- smart pointers safer to use
+		- [[Object-Oriented Programming (OOP) | OOP]]
+	- 
