@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++ Pointers.md",
+            "file": "Dereferencing.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++ Pointers.md",
+            "file": "Dereferencing.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Pointers.md",
+                "file": "Dereferencing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +141,7 @@
   },
   "active": "599e52b5f62719e4",
   "lastOpenFiles": [
+    "Dereferencing.md",
     "C++ Pointers.md",
     "Pointers.md",
     "Ordinary Differential Equations (ODEs).md",
@@ -149,7 +150,6 @@
     "Control Systems.md",
     "Control Bootcamp.md",
     "Untitled.md",
-    "State-Space Representation.md",
-    "Multidimensional Calculus.md"
+    "State-Space Representation.md"
   ]
 }

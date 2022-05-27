@@ -63,8 +63,7 @@ The size of a pointer and the size of what it points to are different
 
 All pointers in a program have the same size, but could point to types of very small/large types
 
-##
-
+[[Dereferencing]]
 
 - Storing addresses
 - Dereferencing
