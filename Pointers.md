@@ -6,7 +6,7 @@
 		- allocate/deallocate memory
 	- Can access data outside scope of function
 	- Efficient array operations
-	- Dynamic memory allocation on the heap
+	- [[Dynamic Memory Allocation|Dynamic memory allocation]] on the heap
 		- memory doesn't have variable name, only accessible via pointer
 	- Enables [[Polymorphism | polymorphism]] for [[Object-Oriented Programming (OOP)| OOP]]
 	- Accessing specific addresses in memory
