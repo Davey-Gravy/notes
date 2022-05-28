@@ -11,5 +11,12 @@
 	- Enables [[Polymorphism | polymorphism]] for [[Object-Oriented Programming (OOP)| OOP]]
 	- Accessing specific addresses in memory
 		- useful in embedded applications
+- Can be used in 
+	- Assignment expressions
+	- [[Pointer Arithmetic|Arithmetic expressions]]	
+	- Comparison expressions
 
 [[C++ Pointers]]
+
+[[Arrays and Pointers]]
+
