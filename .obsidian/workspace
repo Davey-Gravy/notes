@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pointer Arithmetic.md",
+            "file": "Passing Pointers to Functions.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pointer Arithmetic.md",
+            "file": "Passing Pointers to Functions.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pointer Arithmetic.md",
+                "file": "Passing Pointers to Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +142,7 @@
   },
   "active": "599e52b5f62719e4",
   "lastOpenFiles": [
+    "Passing Pointers to Functions.md",
     "Pointer Arithmetic.md",
     "Pointers.md",
     "Arrays and Pointers.md",
@@ -150,7 +151,6 @@
     "C++ Arrays.md",
     "C++ Pointers.md",
     "Ordinary Differential Equations (ODEs).md",
-    "Potential Flow.md",
-    "Fluid Mechanics.md"
+    "Potential Flow.md"
   ]
 }
