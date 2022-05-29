@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Passing Pointers to Functions.md",
+            "file": "References.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Passing Pointers to Functions.md",
+            "file": "References.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pointers",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passing Pointers to Functions.md",
+                "file": "References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +141,8 @@
   },
   "active": "599e52b5f62719e4",
   "lastOpenFiles": [
+    "References.md",
+    "Pointer Pitfalls.md",
     "Passing Pointers to Functions.md",
     "C++ Pointers.md",
     "Pointer Arithmetic.md",
@@ -149,8 +150,6 @@
     "Arrays and Pointers.md",
     "Dynamic Memory Allocation.md",
     "Dereferencing.md",
-    "C++ Arrays.md",
-    "Ordinary Differential Equations (ODEs).md",
-    "Potential Flow.md"
+    "C++ Arrays.md"
   ]
 }
