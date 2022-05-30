@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "599e52b5f62719e4",
+        "id": "11360b8e24e560be",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "References.md",
+            "file": "Classes.md",
             "mode": "source"
           }
-        },
-        "group": "b51e2f0090e4d3c0"
-      },
-      {
-        "id": "2160657969863f0d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "References.md",
-            "mode": "preview"
-          }
-        },
-        "group": "b51e2f0090e4d3c0"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "object-or",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 183.5107650756836
+    "width": 183.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "c6621163e46e9c1e",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References.md",
+                "file": "Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,25 +120,23 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "599e52b5f62719e4",
+  "active": "11360b8e24e560be",
   "lastOpenFiles": [
-    "References.md",
-    "Pointer Pitfalls.md",
-    "Passing Pointers to Functions.md",
+    "Classes.md",
+    "Object-Oriented Programming (OOP).md",
+    "Inheritance.md",
+    "Encapsulation.md",
+    "Information Hiding.md",
+    "Procedural Programming.md",
     "C++ Pointers.md",
-    "Pointer Arithmetic.md",
-    "Pointers.md",
-    "Arrays and Pointers.md",
-    "Dynamic Memory Allocation.md",
-    "Dereferencing.md",
-    "C++ Arrays.md"
+    "Untitled 1.md",
+    "Poineters and References.md",
+    "References.md"
   ]
 }

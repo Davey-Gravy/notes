@@ -1,0 +1,7 @@
+- Blueprints for [[OBjects|objects]]
+- User-defined data type
+- Has
+	- Attributes (data)
+	- Methods (functions)
+- Can hide attributes and methods
+- Provide public interface
