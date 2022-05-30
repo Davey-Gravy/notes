@@ -12,7 +12,20 @@
             "file": "Classes.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "548db4542e3c5cfd"
+      },
+      {
+        "id": "2227d1e3669bb268",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classes.md",
+            "mode": "preview"
+          }
+        },
+        "group": "548db4542e3c5cfd"
       }
     ],
     "direction": "vertical"
@@ -124,17 +137,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "11360b8e24e560be",
   "lastOpenFiles": [
     "Classes.md",
     "Object-Oriented Programming (OOP).md",
-    "Inheritance.md",
+    "C++ Pointers.md",
     "Encapsulation.md",
     "Information Hiding.md",
+    "Inheritance.md",
     "Procedural Programming.md",
-    "C++ Pointers.md",
     "Untitled 1.md",
     "Poineters and References.md",
     "References.md"
