@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes.md",
+            "file": "Class Member Access Modifiers.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes.md",
+            "file": "Class Member Access Modifiers.md",
             "mode": "preview"
           }
         },
@@ -61,13 +61,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 183.5107650756836,
-    "collapsed": true
+    "width": 183.5107650756836
   },
   "right": {
     "id": "c6621163e46e9c1e",
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes.md",
+                "file": "Class Member Access Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +140,7 @@
   },
   "active": "11360b8e24e560be",
   "lastOpenFiles": [
+    "Class Member Access Modifiers.md",
     "Classes.md",
     "Object-Oriented Programming (OOP).md",
     "C++ Pointers.md",
@@ -150,7 +149,6 @@
     "Inheritance.md",
     "Procedural Programming.md",
     "Untitled 1.md",
-    "Poineters and References.md",
-    "References.md"
+    "Poineters and References.md"
   ]
 }
