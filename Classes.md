@@ -36,7 +36,7 @@ class Account
 };
 ```
 
-# Creating
+# Instantiating
 
 ```cpp
 Player frank;
