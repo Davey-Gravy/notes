@@ -1,6 +1,4 @@
-# [[C++]]
-
-## Declaration/Initialization
+# Declaration/Initialization
 
 Declaration:
 
@@ -29,7 +27,7 @@ Ensure that pointers are initialized
 - initialize to zero or `nullptr` points to address zero
 - type of pointer and variable must match
 
-## Accessing and Storing Addresses
+# Accessing and Storing Addresses
 
 - `&`
 	- address operator

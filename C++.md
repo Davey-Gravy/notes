@@ -3,3 +3,4 @@
 - [[C++ Strings]]
 - [[Functions]]
 - [[C++ Scoping]]
+- [[C++ Pointers]]
