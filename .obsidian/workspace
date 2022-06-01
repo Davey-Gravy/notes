@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Passing Pointers to Functions.md",
+            "file": "Class Member Access Modifiers.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Passing Pointers to Functions.md",
+            "file": "Class Member Access Modifiers.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passing Pointers to Functions.md",
+                "file": "Class Member Access Modifiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,13 +140,13 @@
   },
   "active": "11360b8e24e560be",
   "lastOpenFiles": [
+    "Class Member Access Modifiers.md",
     "Passing Pointers to Functions.md",
     "Pass by Reference.md",
     "Passing Arrays to Functions.md",
     "Partial Differential Equations (PDEs).md",
     "C++.md",
     "C++ Pointers.md",
-    "Class Member Access Modifiers.md",
     "Classes.md",
     "Object-Oriented Programming (OOP).md",
     "Encapsulation.md"
