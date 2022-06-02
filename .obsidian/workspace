@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bitwisee Operators.md",
+            "file": "Bitwise Operators.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bitwisee Operators.md",
+            "file": "Bitwise Operators.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 234.5,
+    "collapsed": true
   },
   "right": {
     "id": "c6621163e46e9c1e",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bitwisee Operators.md",
+                "file": "Bitwise Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
   },
   "active": "38300ae9d8bbd09f",
   "lastOpenFiles": [
-    "Bitwisee Operators.md",
+    "Bitwise Operators.md",
     "Bits and Bytes.md",
     "C++ Functions.md",
     "Current Division.md",
