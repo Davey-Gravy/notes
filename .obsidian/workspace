@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Class Methods.md",
+            "file": "Gaussian Mixture Models.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Class Methods.md",
+            "file": "Gaussian Mixture Models.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Methods.md",
+                "file": "Gaussian Mixture Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "11360b8e24e560be",
   "lastOpenFiles": [
-    "Class Methods.md",
-    "Classes.md",
-    "conflict-files-obsidian-git.md",
-    "Class Member Access Modifiers.md",
-    "Passing Pointers to Functions.md",
-    "Pass by Reference.md",
-    "Passing Arrays to Functions.md",
-    "Partial Differential Equations (PDEs).md",
-    "C++.md",
-    "C++ Pointers.md"
+    "Gaussian Mixture Models.md",
+    "Functions.md",
+    "Differential Equations.md",
+    "Dynamic Memory Allocation.md",
+    "Basic Electrical Engineering.md",
+    "Bernoulli's Equation.md",
+    "Big M Method.md",
+    "Stokes Streamfunction.md",
+    "Books.md",
+    "Bitwise Operators.md"
   ]
 }
