@@ -9,22 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes.md",
+            "file": "Class Methods.md",
             "mode": "source"
           }
         },
         "group": "548db4542e3c5cfd"
-      },
-      {
-        "id": "75c663ab5c3e7a03",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source"
-          }
-        }
       },
       {
         "id": "2227d1e3669bb268",
@@ -32,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classes.md",
+            "file": "Class Methods.md",
             "mode": "preview"
           }
         },
@@ -92,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Class Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75c663ab5c3e7a03",
+  "active": "11360b8e24e560be",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Class Methods.md",
     "Classes.md",
+    "conflict-files-obsidian-git.md",
     "Class Member Access Modifiers.md",
     "Passing Pointers to Functions.md",
     "Pass by Reference.md",
     "Passing Arrays to Functions.md",
     "Partial Differential Equations (PDEs).md",
     "C++.md",
-    "C++ Pointers.md",
-    "Object-Oriented Programming (OOP).md"
+    "C++ Pointers.md"
   ]
 }
