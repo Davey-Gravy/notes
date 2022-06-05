@@ -2,7 +2,7 @@
 - User-defined data type
 - Has
 	- Attributes (data)
-	- Methods (functions)
+	- [[Class Methods|Methods]] (functions)
 - Provide public interface
 - Can hide attributes and methods
 - [[Class Member Access Modifiers]]
