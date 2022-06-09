@@ -4,28 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "11360b8e24e560be",
+        "id": "a5d12a36da21c54a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "localgraph",
           "state": {
-            "file": "Gaussian Mixture Models.md",
-            "mode": "source"
+            "file": "C++ Class Methods.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1.1961169353104486,
+              "close": false
+            }
           }
-        },
-        "group": "548db4542e3c5cfd"
+        }
       },
       {
-        "id": "2227d1e3669bb268",
+        "id": "d058262c9b2ea6e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gaussian Mixture Models.md",
-            "mode": "preview"
+            "file": "C++ Class Methods.md",
+            "mode": "source"
           }
-        },
-        "group": "548db4542e3c5cfd"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaussian Mixture Models.md",
+                "file": "C++ Class Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,17 +160,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11360b8e24e560be",
+  "active": "d058262c9b2ea6e2",
   "lastOpenFiles": [
+    "C++ Class Methods.md",
+    "Class Methods.md",
+    "Object-Oriented Programming (OOP).md",
+    "Methods.md",
+    "Classes.md",
+    "C++ Classes.md",
     "Gaussian Mixture Models.md",
     "Functions.md",
     "Differential Equations.md",
-    "Dynamic Memory Allocation.md",
-    "Basic Electrical Engineering.md",
-    "Bernoulli's Equation.md",
-    "Big M Method.md",
-    "Stokes Streamfunction.md",
-    "Books.md",
-    "Bitwise Operators.md"
+    "Dynamic Memory Allocation.md"
   ]
 }

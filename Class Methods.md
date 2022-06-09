@@ -6,3 +6,5 @@
 	- `.h` file for declaration
 	- `.cpp` file for implementation
 	- [[Include Guard]]
+
+[[C++ Class Methods]]
