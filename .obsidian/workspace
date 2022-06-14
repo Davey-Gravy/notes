@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++ Class Methods.md",
+            "file": "Vim.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++ Class Methods.md",
+            "file": "Vim.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++ Class Methods.md",
+                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "d058262c9b2ea6e2",
   "lastOpenFiles": [
+    "Vim.md",
+    "Binary Search.md",
+    "George Hotz Programming  1.md",
+    "Bubble Sort.md",
+    "O(n) Sort.md",
     "C++ Class Methods.md",
     "Geothermal Economics.md",
     "Include Guard.md",
     "Class Methods.md",
-    "Object-Oriented Programming (OOP).md",
-    "Methods.md",
-    "Classes.md",
-    "C++ Classes.md",
-    "Gaussian Mixture Models.md",
-    "Functions.md"
+    "Object-Oriented Programming (OOP).md"
   ]
 }
