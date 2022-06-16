@@ -16,6 +16,17 @@
         "group": "ed91bf9396ce0f1c"
       },
       {
+        "id": "1dae82af3bb7f393",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "661d8d7def67f713",
         "type": "leaf",
         "state": {
@@ -141,6 +152,7 @@
   "active": "d058262c9b2ea6e2",
   "lastOpenFiles": [
     "Vim.md",
+    "conflict-files-obsidian-git.md",
     "Binary Search.md",
     "George Hotz Programming  1.md",
     "Bubble Sort.md",
@@ -148,7 +160,6 @@
     "C++ Class Methods.md",
     "Geothermal Economics.md",
     "Include Guard.md",
-    "Class Methods.md",
-    "Object-Oriented Programming (OOP).md"
+    "Class Methods.md"
   ]
 }
