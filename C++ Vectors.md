@@ -1,6 +1,6 @@
-# Overview
 
-- Container in the C++ Standard Library
+ Container in the C++ Standard Library
+ 
 - Dynamic array
 	- can grow/shrink in size at execution
 - Similar syntax to arrays
@@ -10,7 +10,7 @@
 
 # Declaration
 
-```c
+```cpp
 #include <vector>
 using namespace std;
 
@@ -20,4 +20,4 @@ vector <char> vowels {'a','e','i','o','u'};
 vector <int> test_scores {100, 98, 89, 85, 94};
 
 vector <double> hi_temps (365, 80.0);
-``
+```

@@ -1,0 +1,8 @@
+- Uninitialized pointers
+- Dangling pointers
+	- point to invalid data
+	- point to released memory
+		- 2 pointers point to same data
+		- pointer releases its data with `delete`
+- Memory leak
+	- Forgetting to release allocated memory with `delete`

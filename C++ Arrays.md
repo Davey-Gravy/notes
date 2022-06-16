@@ -1,4 +1,4 @@
-# Characteristics
+# [[C++ Arrays]]
 
 - Fixed size
 - Compound data type

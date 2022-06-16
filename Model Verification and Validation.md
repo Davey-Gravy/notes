@@ -1,4 +1,4 @@
-# Verification and Validation
+
 - Verification
 	- ensuring the setup of the CFD model is appropriate
 		- boundary conditions

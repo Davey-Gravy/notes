@@ -15,6 +15,7 @@
 - adjointShapeOptimizationFoam
 - boundaryFoam
 - simpleFoam
+	- [[SIMPLE Algorithm]]
 	- porousSimpleFoam
 	- SRFSimpleFoam
 
@@ -23,8 +24,10 @@
 - icoFoam
 - nonNewtonianIcoFoam
 - pimpleFoam
+	- [[PIMPLE Algorithm]]
 	- SRFPimpleFoam
 - pisoFoam
+	- [[PISO Algorithm]]
 - shallowWaterFoam
 
 ## Compressible

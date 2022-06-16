@@ -7,6 +7,8 @@ $$
 \frac{dy}{dt}+2ty=0
 $$
 
+(see [[Partial Differential Equations (PDEs)]])
+
 ## First Order ODEs
 
 **First Order** - derivatives of degree one
