@@ -1,45 +1,29 @@
 {
   "main": {
-    "id": "b8035cef1d2c8ace",
+    "id": "dc63e6b354efc594",
     "type": "split",
     "children": [
       {
-        "id": "d058262c9b2ea6e2",
+        "id": "066979c1078f8e03",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vim.md",
-            "mode": "source"
-          }
-        },
-        "group": "ed91bf9396ce0f1c"
-      },
-      {
-        "id": "661d8d7def67f713",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vim.md",
-            "mode": "preview"
-          }
-        },
-        "group": "ed91bf9396ce0f1c"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a448e301e5cf3b22",
+    "id": "0d004802af5c45e4",
     "type": "split",
     "children": [
       {
-        "id": "8d3d07a3b6b9577f",
+        "id": "12ac6ae9d12d23cf",
         "type": "tabs",
         "children": [
           {
-            "id": "37841d5318ef801c",
+            "id": "bdb0cedb0d5c2ccc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +31,12 @@
             }
           },
           {
-            "id": "8d40ed5ca29397fe",
+            "id": "56394a168941d16c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "object-or",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,23 +49,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 183.5107650756836
+    "width": 170.5
   },
   "right": {
-    "id": "c6621163e46e9c1e",
+    "id": "0e589c61991e7e51",
     "type": "split",
     "children": [
       {
-        "id": "0ffea0bd953d0a84",
+        "id": "64993a5ad784016a",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa6b32525440c42",
+            "id": "6aa24b465e995a93",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,41 +76,10 @@
             }
           },
           {
-            "id": "70930ca5cdb56271",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Non-Orthogonality.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "56b92765e283a62f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "aef03748b9f7f2e6",
+            "id": "aea808986cf16a78",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4fa2688158d964ca",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -138,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d058262c9b2ea6e2",
+  "active": "066979c1078f8e03",
   "lastOpenFiles": [
-    "Vim.md",
     "conflict-files-obsidian-git.md",
-    "Binary Search.md",
-    "George Hotz Programming  1.md",
-    "Bubble Sort.md",
-    "O(n) Sort.md",
-    "C++ Class Methods.md",
-    "Geothermal Economics.md",
-    "Include Guard.md",
-    "Class Methods.md"
+    "Dynamic Memory Allocation.md",
+    "Mesh Refinement Studies.md",
+    "Method of Separation.md",
+    "Regularization.md",
+    "Under-Relaxation.md",
+    "Parallel Axis Theorem.md",
+    "Pointers and References.md",
+    "Central Tendency.md",
+    "LAMY 2000.md"
   ]
 }
