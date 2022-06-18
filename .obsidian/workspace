@@ -1,29 +1,45 @@
 {
   "main": {
-    "id": "dc63e6b354efc594",
+    "id": "b8035cef1d2c8ace",
     "type": "split",
     "children": [
       {
-        "id": "066979c1078f8e03",
+        "id": "d058262c9b2ea6e2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Default Constructor.md",
+            "mode": "source"
+          }
+        },
+        "group": "ed91bf9396ce0f1c"
+      },
+      {
+        "id": "661d8d7def67f713",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Default Constructor.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ed91bf9396ce0f1c"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0d004802af5c45e4",
+    "id": "a448e301e5cf3b22",
     "type": "split",
     "children": [
       {
-        "id": "12ac6ae9d12d23cf",
+        "id": "8d3d07a3b6b9577f",
         "type": "tabs",
         "children": [
           {
-            "id": "bdb0cedb0d5c2ccc",
+            "id": "37841d5318ef801c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,12 +47,12 @@
             }
           },
           {
-            "id": "56394a168941d16c",
+            "id": "8d40ed5ca29397fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "object-or",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,22 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170.5
+    "width": 182.5107650756836
   },
   "right": {
-    "id": "0e589c61991e7e51",
+    "id": "c6621163e46e9c1e",
     "type": "split",
     "children": [
       {
-        "id": "64993a5ad784016a",
+        "id": "0ffea0bd953d0a84",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa24b465e995a93",
+            "id": "7fa6b32525440c42",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Default Constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,10 +93,41 @@
             }
           },
           {
-            "id": "aea808986cf16a78",
+            "id": "70930ca5cdb56271",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Non-Orthogonality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56b92765e283a62f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aef03748b9f7f2e6",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fa2688158d964ca",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -90,17 +138,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "066979c1078f8e03",
+  "active": "d058262c9b2ea6e2",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Dynamic Memory Allocation.md",
-    "Mesh Refinement Studies.md",
-    "Method of Separation.md",
-    "Regularization.md",
-    "Under-Relaxation.md",
-    "Parallel Axis Theorem.md",
-    "Pointers and References.md",
-    "Central Tendency.md",
-    "LAMY 2000.md"
+    "Default Constructor.md",
+    "Constructors.md",
+    "Energy Spike Discussion.md",
+    "Destructors.md",
+    "Object-Oriented Programming (OOP).md",
+    "R-Values.md",
+    "Set Theory.md",
+    "Gibbs' Phase Rule.md",
+    "Convex Porgramming.md",
+    "Vim.md"
   ]
 }

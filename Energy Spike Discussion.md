@@ -16,7 +16,7 @@
 - increased global demand for natural gas
 	- economic recovery
 	- supply not matched
-		- low volume from Russia --> NordStream 2
+		- low volume from Russia -> NordStream 2
 	- delayed infrastructure maintenance during pandemic
 	- low water and wind over summer
 		- lower renewables production
@@ -24,12 +24,16 @@
 	- +30&euro;/ton CO<sub>2</sub>
 	- 9 times less impactful than gas price
 	- high gas prices -> increased use of coal, higher demand for emission allowances
-#### The impact of high energy prices
+
+#### Impact of High Energy Prices
+
 - greatest effect on retail prices
 - impacts low, lower-middle-income households
 - fertilizer industry cut back -> higher food prices
 - higher inflation
+
 ### Toolbox of measures to help meet the challenge
+
 1. Short term
 	- mitigate effects on vulnerable groups
 	- easily adjustable when situation improves
@@ -38,7 +42,9 @@
 	- make EU more energy efficient
 	- less dependent on fossil fuels
 	- more resilient to energy price spikes
+
 #### Immediate measures
+
 -  small businesses, consumers
 	-  vouchers and subsidies
 -  energy intense industry
@@ -48,7 +54,9 @@
 		-  currently higher than expected
 	-  taxes on energy prices
 	-  environmental tax
+
 #### Medium-term measures
+
  - develop more energy storage
  - reevaluate wholesale electricity market design
 	 - is marginal cost pricing really the best?
@@ -60,13 +68,15 @@
 
 
 ### Fuel Poverty
+
 - cost
 - price of energy
 - need
 	- low income homeowner --> low efficiency 
 
 ## European High Renewables Electricity Network
-How do we get wind solar as efficiently as we can?
+
+How do we get wind + solar as efficiently as we can?
 
 Current market needs to be replaced
 Work toward "complete market"
