@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Default Constructor.md",
+            "file": "Constructor Initialization Lists.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Default Constructor.md",
+            "file": "Constructor Initialization Lists.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Default Constructor.md",
+                "file": "Constructor Initialization Lists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +140,7 @@
   },
   "active": "d058262c9b2ea6e2",
   "lastOpenFiles": [
+    "Constructor Initialization Lists.md",
     "Default Constructor.md",
     "Constructors.md",
     "Energy Spike Discussion.md",
@@ -148,7 +149,6 @@
     "R-Values.md",
     "Set Theory.md",
     "Gibbs' Phase Rule.md",
-    "Convex Porgramming.md",
-    "Vim.md"
+    "Convex Porgramming.md"
   ]
 }
