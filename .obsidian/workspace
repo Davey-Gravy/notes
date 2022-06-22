@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++.md",
+            "file": "Delegating Constructors.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C++.md",
+            "file": "Delegating Constructors.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++.md",
+                "file": "Delegating Constructors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +140,15 @@
   },
   "active": "d058262c9b2ea6e2",
   "lastOpenFiles": [
+    "Delegating Constructors.md",
+    "Destructors.md",
+    "Constructors.md",
     "C++.md",
     "References.md",
     "Pointers and References.md",
     "Functions.md",
-    "Delegating Constructors.md",
-    "Constructors.md",
     "Constructor Initialization Lists.md",
     "Default Constructor.md",
-    "Energy Spike Discussion.md",
-    "Destructors.md"
+    "Energy Spike Discussion.md"
   ]
 }

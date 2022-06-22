@@ -5,21 +5,4 @@ Similar to `__init__` in Python?
 - Don't specify a return type
 - Can be [[Function Overloading|overloaded]]
 
-```cpp
-class Player 
-{
-private:
-	std::string name;
-	int health;
-	int xp;
-public:
-	// Overloaded constructors
-	Player();
-	Player(std::string name);
-	Player(std::string name, int health, int xp);
-}
-```
-
-[[Constructor Initialization Lists]]
-[[Default Constructor]]
-[[Delegating Constructors]]
+[[C++ Constructors]]
