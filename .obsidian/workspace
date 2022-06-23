@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Delegating Constructors.md",
+            "file": "classification of solids.md",
             "mode": "source"
           }
-        },
-        "group": "cc71d51cf9697022"
-      },
-      {
-        "id": "63412d438b9574ca",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Delegating Constructors.md",
-            "mode": "preview"
-          }
-        },
-        "group": "cc71d51cf9697022"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Delegating Constructors.md",
+                "file": "classification of solids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,15 +127,15 @@
   },
   "active": "d058262c9b2ea6e2",
   "lastOpenFiles": [
-    "Delegating Constructors.md",
-    "Destructors.md",
-    "Constructors.md",
-    "C++.md",
-    "References.md",
-    "Pointers and References.md",
-    "Functions.md",
-    "Constructor Initialization Lists.md",
-    "Default Constructor.md",
-    "Energy Spike Discussion.md"
+    "classification of solids.md",
+    "basis.md",
+    "Bravais Lattice.md",
+    "C++ Destructors.md",
+    "Quantum Theory of Solids.md",
+    "Semiconductor Physics.md",
+    "Carrier Dynamics.md",
+    "Diffusion Current.md",
+    "HDL.md",
+    "Drift Current.md"
   ]
 }

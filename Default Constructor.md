@@ -15,5 +15,9 @@ class Dog {
 			name = "Max";
 			age = 0;
 		}
+		// or default parameters
+		Dog(string name_val = "Max",
+			int age = 0)
+		
 }
 ```
