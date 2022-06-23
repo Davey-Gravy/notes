@@ -8,7 +8,7 @@
 
 Amorphous and poly-crystalline semiconductors have applications in thin-film transistors used in LCDs
 
-Crystal = [[Bravais Lattice]] + [[basis]]
+[[Crystals]] = [[Bravais Lattice]] + [[basis]]
 
 ![[crystal_basis.png]]
 
