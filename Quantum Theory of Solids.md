@@ -1,6 +1,6 @@
 - Crystal structures
 	- how atoms are arranged in semiconductors
-- energy band structure
+- [[Energy Bands|energy band]] structure
 	- dictate material properties
 - [[Classification of Solids]]
 	- metal, insulator, semiconductor
