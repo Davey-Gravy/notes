@@ -10,7 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Shallow Copy.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 100
   },
   "right": {
     "id": "0e589c61991e7e51",
