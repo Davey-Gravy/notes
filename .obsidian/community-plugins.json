@@ -1,12 +1,7 @@
 [
-  "sliding-panes-obsidian",
   "table-editor-obsidian",
   "calendar",
-  "note-refactor-obsidian",
-  "table-extended",
-<<<<<<< HEAD
+  "obsidian-citation-plugin",
+  "obsidian-mind-map",
   "obsidian-git"
-=======
-  "obsidian-minimal-settings"
->>>>>>> 4d90f3dad0ed0c88418516da190e7a79e6127598
 ]

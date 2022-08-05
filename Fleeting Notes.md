@@ -1,0 +1,4 @@
+- Notes generated from spontaneous thought throughout the day
+- Meant to be discarded at EOD
+- Reminder of thought, not thought itself
+- Ensure processing every day
