@@ -17,6 +17,7 @@ Reusability
 # Concepts
 
 - [[Classes]]
+	- [[Class Methods]]
 - [[Constructors]]
 - [[Destructors]]
 - [[Encapsulation]]

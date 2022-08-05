@@ -3,7 +3,7 @@
 - second most common element in Earth's crust (as SiO<sub>2</sub>)
 - Overall reaction: $$\ce{SiO2 + 2C \longrightarrow Si + 2CO}$$
 ## Types
-### 1. Metallurgical grade (MG-Si)
+### Metallurgical grade (MG-Si)
 - Si content ~99%
 - produced in submerged arc furnace
 	#### Uses
@@ -13,7 +13,7 @@
 	- electronics --> 3%
 - 5x increase over past 20 years (mostly China)
 - energy mix over 50% renewable
-### 2. Ferrosilicon (FeSi)
+### Ferrosilicon (FeSi)
 - mixture of iron and silicon (50-95% Si)
 - similar process to MG-Si production
 - focus of Icelandic smelters

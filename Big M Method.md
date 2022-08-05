@@ -1,11 +1,11 @@
 # Big M Method
 
-- Variant of the [[Simplex Method]]
+- Variant of the [[Simplex Method|simplex method]]
 - Used if the origin is not part of the initial basis
 	- Equality constraints
 	- Negative right-hand sides
 	- Constraints in &ge; form
-- Analog to the [[Two-Phase Simplex Method]]
+- Analogue to the [[Two-Phase Simplex Method|two-phase simplex method]]
 
 ##  Example
 

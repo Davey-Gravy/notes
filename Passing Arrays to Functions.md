@@ -1,6 +1,6 @@
-# C++
+# [[C++]]
 
-```c
+```cpp
 void print_array(int numbers []);
 ```
 
@@ -13,7 +13,7 @@ void print_array(int numbers []);
 
 Example (doesn't work)
 
-```c
+```cpp
 void print_array(int numbers []);
 
 int main() {
@@ -29,7 +29,7 @@ void print_array(int numbers []) {
 
 Example (does work)
 
-```c
+```cpp
 void print_array(int numbers [], size_t size);
 
 int main() {

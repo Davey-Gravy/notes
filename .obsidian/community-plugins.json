@@ -1,7 +1,14 @@
 [
   "table-editor-obsidian",
   "calendar",
+<<<<<<< HEAD
   "obsidian-citation-plugin",
   "obsidian-mind-map",
   "obsidian-git"
+=======
+  "obsidian-git",
+  "note-refactor-obsidian",
+  "table-extended",
+  "obsidian-minimal-settings"
+>>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
 ]

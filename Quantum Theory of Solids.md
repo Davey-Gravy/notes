@@ -1,0 +1,7 @@
+- Crystal structures
+	- how atoms are arranged in semiconductors
+- [[Energy Bands|energy band]] structure
+	- dictate material properties
+- [[Classification of Solids]]
+	- metal, insulator, semiconductor
+- Key characteristics of semiconductors

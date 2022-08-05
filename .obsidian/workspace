@@ -1,19 +1,28 @@
 {
   "main": {
-    "id": "b8035cef1d2c8ace",
+    "id": "dc63e6b354efc594",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "b19ac48552a1843b",
+=======
+        "id": "f56a5b9b57e8a96b",
+>>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "How to Take Smart Notes.md",
+=======
+            "file": "Shallow Copy.md",
+>>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
             "mode": "source",
             "source": false
           }
         }
+<<<<<<< HEAD
       },
       {
         "id": "0640c56676edce32",
@@ -26,20 +35,22 @@
             "source": false
           }
         }
+=======
+>>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a448e301e5cf3b22",
+    "id": "0d004802af5c45e4",
     "type": "split",
     "children": [
       {
-        "id": "8d3d07a3b6b9577f",
+        "id": "12ac6ae9d12d23cf",
         "type": "tabs",
         "children": [
           {
-            "id": "37841d5318ef801c",
+            "id": "bdb0cedb0d5c2ccc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +58,7 @@
             }
           },
           {
-            "id": "8d40ed5ca29397fe",
+            "id": "56394a168941d16c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,24 +76,32 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 234.5,
     "collapsed": true
+=======
+    "width": 100
+>>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
   },
   "right": {
-    "id": "c6621163e46e9c1e",
+    "id": "0e589c61991e7e51",
     "type": "split",
     "children": [
       {
-        "id": "0ffea0bd953d0a84",
+        "id": "64993a5ad784016a",
         "type": "tabs",
         "children": [
           {
-            "id": "7fa6b32525440c42",
+            "id": "6aa24b465e995a93",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "How to Take Smart Notes.md",
+=======
+                "file": "Shallow Copy.md",
+>>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,41 +113,10 @@
             }
           },
           {
-            "id": "70930ca5cdb56271",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Non-Orthogonality.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "56b92765e283a62f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "aef03748b9f7f2e6",
+            "id": "aea808986cf16a78",
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "4fa2688158d964ca",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -140,6 +128,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "b19ac48552a1843b",
   "lastOpenFiles": [
     "Zettlekasten.md",
@@ -152,5 +141,19 @@
     "C++ Strings.md",
     "Books.md",
     "Spirtual Ecology.md"
+=======
+  "active": "f56a5b9b57e8a96b",
+  "lastOpenFiles": [
+    "Shallow Copy.md",
+    "Copy Constructors.md",
+    "C++ Constructors.md",
+    "Constructors.md",
+    "Crystals.md",
+    "Transfer Function.md",
+    "State-Space Representation.md",
+    "Control Systems.md",
+    "Control Bootcamp.md",
+    "Failure Modes and Effects Analysis (FMEA).md"
+>>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
   ]
 }
