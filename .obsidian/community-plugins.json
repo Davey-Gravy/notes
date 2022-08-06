@@ -1,14 +1,11 @@
 [
+  "obsidian-admonition",
+  "obsidian-advanced-slides",
   "table-editor-obsidian",
   "calendar",
-<<<<<<< HEAD
   "obsidian-citation-plugin",
-  "obsidian-mind-map",
-  "obsidian-git"
-=======
-  "obsidian-git",
-  "note-refactor-obsidian",
-  "table-extended",
-  "obsidian-minimal-settings"
->>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
+  "dataview",
+  "obsidian-day-planner",
+  "obsidian-kanban",
+  "obsidian-mind-map"
 ]

@@ -1,56 +1,33 @@
 {
   "main": {
-    "id": "dc63e6b354efc594",
+    "id": "2b44f1d2b761d2b1",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "b19ac48552a1843b",
-=======
-        "id": "f56a5b9b57e8a96b",
->>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
+        "id": "c0d60aa777dff334",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "How to Take Smart Notes.md",
-=======
-            "file": "Shallow Copy.md",
->>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
+            "file": "Atomic Layer Deposition.md",
             "mode": "source",
             "source": false
           }
         }
-<<<<<<< HEAD
-      },
-      {
-        "id": "0640c56676edce32",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Zettlekasten.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-=======
->>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0d004802af5c45e4",
+    "id": "9261d743d5c8847b",
     "type": "split",
     "children": [
       {
-        "id": "12ac6ae9d12d23cf",
+        "id": "10bd7e0736c70a6b",
         "type": "tabs",
         "children": [
           {
-            "id": "bdb0cedb0d5c2ccc",
+            "id": "7618d23521cbd6e5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +35,7 @@
             }
           },
           {
-            "id": "56394a168941d16c",
+            "id": "3c672aeec5e53ac5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,32 +53,23 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 234.5,
-    "collapsed": true
-=======
-    "width": 100
->>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
+    "width": 300
   },
   "right": {
-    "id": "0e589c61991e7e51",
+    "id": "5f8516621f8e5f64",
     "type": "split",
     "children": [
       {
-        "id": "64993a5ad784016a",
+        "id": "465a4ba690a41d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa24b465e995a93",
+            "id": "bd4a7e3447c0d140",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "How to Take Smart Notes.md",
-=======
-                "file": "Shallow Copy.md",
->>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
+                "file": "Atomic Layer Deposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,47 +81,22 @@
             }
           },
           {
-            "id": "aea808986cf16a78",
+            "id": "a2c93b5a4d302602",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "b19ac48552a1843b",
+  "active": "c0d60aa777dff334",
   "lastOpenFiles": [
-    "Zettlekasten.md",
-    "How to Take Smart Notes.md",
-    "Something to write with, write on.md",
-    "Fleeting Notes.md",
-    "Zotero.net.md",
-    "Space Pen.md",
-    "Literature Notes.md",
-    "C++ Strings.md",
-    "Books.md",
-    "Spirtual Ecology.md"
-=======
-  "active": "f56a5b9b57e8a96b",
-  "lastOpenFiles": [
-    "Shallow Copy.md",
-    "Copy Constructors.md",
-    "C++ Constructors.md",
-    "Constructors.md",
-    "Crystals.md",
-    "Transfer Function.md",
-    "State-Space Representation.md",
-    "Control Systems.md",
-    "Control Bootcamp.md",
-    "Failure Modes and Effects Analysis (FMEA).md"
->>>>>>> 54bec620680cd0deae68bf504ffe53afdecb284d
+    "Aspect Ratio.md"
   ]
 }
