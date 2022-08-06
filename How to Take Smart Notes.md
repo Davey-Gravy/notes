@@ -143,11 +143,6 @@ Focus on insight that can be published
 Becomes more valuable over time as notes are added
 - remember [[garbage in, garbage out]]
 
-Separate these notes
-1. [[Fleeting Notes]]
-2. [[Permanent Notes]]
-3. [[Project Notes]]
-
 Carrying around a notebook
 - Pro
 	- nothing is left unrecorded
@@ -158,6 +153,16 @@ Carrying around a notebook
 	- strict-chronological order
 		- no way to shuffle pages
 
+Separate these notes
+1. [[Fleeting Notes]]
+2. [[Permanent Notes]]
+3. [[Project Notes]]
+
+Importance of same format
+
 Don't focus on projects when taking notes
 - counter-intuitive
 	-  would think that focusing on project would be more productive
+
+# Chapter 13
+

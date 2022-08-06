@@ -2,3 +2,18 @@
 - Meant to be discarded at EOD
 - Reminder of thought, not thought itself
 - Ensure processing every day
+
+- busy doing something else
+	- conversation
+	- lecture
+	- spontaneous idea
+- when current task cannot be interrupted
+- margin notes, underlining are [[Fleeting Notes|fleeting notes]]
+- meant to be reviewed by end of day
+	- don't take otherwise, become useless and clutter
+	- may forget what inspired note, the context in which it belongs
+- can take fleeting literature notes to further develop understanding of idea
+	- won't directly be used in the writing process 
+	- can write bibliographic information
+		- author, etc.
+		- point out important sectionsPermanent Notes
