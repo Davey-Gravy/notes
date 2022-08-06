@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How to Take Smart Notes.md",
+            "file": "UW_ME_564_1.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to Take Smart Notes.md",
+                "file": "UW_ME_564_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "2d7800ecf11e2039",
   "lastOpenFiles": [
-    "Project Notes.md",
+    "UW_ME_564.md",
     "How to Take Smart Notes.md",
+    "Project Notes.md",
     "Permanent Notes.md",
     "Fleeting Notes.md",
     "How can humans better adapt to hot climates?.md",
     "Writing is the only thing that matters.md",
     "Strain.md",
     "Diffusion Current.md",
-    "Encapsulation.md",
-    "C++ Arrays.md"
+    "Encapsulation.md"
   ]
 }
