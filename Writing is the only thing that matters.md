@@ -9,7 +9,7 @@ As students, we are used to writing as the preparation for and performance of ex
 - gaining unexpected insight
 - sharing with the public
 
-> "There is no such thing as private knowledge in academia; an idea kept private is as good as a fact you never had - and a fact no one can reproduce is not a fact at all."
+> "There is no such thing as private knowledge in academia; an idea kept private is as good as a fact you never had - and a fact no one can reproduce is no fact at all."
 
 The truth is *public* (not always)
 
@@ -18,3 +18,20 @@ The truth is *public* (not always)
 > - Wilhelm von Humboldt
 
 The university's aim is publication
+
+- academic papers
+- presentation handouts
+
+Reading, listening is source of writing
+
+Developing actual, open questions about the material
+* this is what is worth writing about
+
+Develop ability to distinguish b/w good-sounding arguments and *actually* good ones
+- make connections w/ previous knowledge, beliefs
+- cannot rephrase things if we don't know what it's about
+- creating something new
+
+
+
+Deliberate practice is the only way to improve

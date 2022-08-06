@@ -104,3 +104,60 @@ Four tools:
 
 # Chapter 11
 The 4 Underlying Principles
+1. [[Writing is the only thing that matters]]
+
+# Chapter 12
+2. [[Simplicity is paramount]]
+
+System for deliberately searching for information
+- Students + academics take notes like antiquated, pre-Maclane shippers
+	- handle ideas in ways that make immediate sense
+	- underline interesting senses
+	- margin notes
+- Requires brain to remember where/when notes were written down
+- Text conceptualized independently from the notes
+	- Brainstorming after the fact instead of thinking in the moment
+
+Zettlekasten
+- System for ideas we have already forgotten
+	- rewrite notes
+	- reference them when work reminds me of something
+
+“What topic does this note belong to?” → “What context do I want to stumble upon this note in?”
+- Use of links allows discovery of applications in different contexts
+- Brain does initial work of finding first note
+- [[Zettlekasten]] reacquaints us w/ ideas already forgotten
+- Brain focuses on *thinking* instead of *remembering*
+- [[Zettlekasten]] is shipping container of the academic world
+	- different ideas not compartmentalized
+
+Don't focus on in-between steps
+- highlighting
+- underlining
+- excerpt writing
+
+Focus on insight that can be published
+- connections
+- questions
+
+Becomes more valuable over time as notes are added
+- remember [[garbage in, garbage out]]
+
+Separate these notes
+1. [[Fleeting Notes]]
+2. [[Permanent Notes]]
+3. [[Project Notes]]
+
+Carrying around a notebook
+- Pro
+	- nothing is left unrecorded
+- Cons
+	- [[Fleeting Notes|fleeting notes]] are treated as [[Permanent Notes|permanent]]
+		- critical mass never reached, becomes messy
+		- ideas diluted by other notes
+	- strict-chronological order
+		- no way to shuffle pages
+
+Don't focus on projects when taking notes
+- counter-intuitive
+	-  would think that focusing on project would be more productive

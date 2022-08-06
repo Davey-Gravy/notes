@@ -1,4 +1,3 @@
-# Zettlekasten
 a.k.a slipbox
 
 - Physical (sheets of paper) or digital (computer or mobile)
