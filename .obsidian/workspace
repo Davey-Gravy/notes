@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Writing is the only thing that matters.md",
+            "file": "How to Take Smart Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f6c49b4edd23f660",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Project Notes.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f8516621f8e5f64",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing is the only thing that matters.md",
+                "file": "How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,11 +110,15 @@
   },
   "active": "2d7800ecf11e2039",
   "lastOpenFiles": [
-    "C++ Arrays.md",
-    "Writing is the only thing that matters.md",
+    "Project Notes.md",
     "How to Take Smart Notes.md",
-    "Convex Porgramming.md",
-    "Atomic Layer Deposition.md",
-    "Aspect Ratio.md"
+    "Permanent Notes.md",
+    "Fleeting Notes.md",
+    "How can humans better adapt to hot climates?.md",
+    "Writing is the only thing that matters.md",
+    "Strain.md",
+    "Diffusion Current.md",
+    "Encapsulation.md",
+    "C++ Arrays.md"
   ]
 }
