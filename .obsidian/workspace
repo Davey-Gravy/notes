@@ -9,19 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UW_ME_564_2.md",
+            "file": "The Way of Zen.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "dd329384dc807726",
+        "id": "f6c49b4edd23f660",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Power Law.md",
+            "file": "Project Notes.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UW_ME_564_2.md",
+                "file": "The Way of Zen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,33 +99,25 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "2413474efbbe24f4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "2d7800ecf11e2039",
   "lastOpenFiles": [
-    "Ordinary Differential Equations (ODEs).md",
-    "UW_ME_564_2.md",
-    "Multidimensional Calculus.md",
-    "Power Law.md",
-    "Project Notes.md",
-    "Derivative.md",
     "UW_ME_564_1.md",
-    "UW_ME_564.md",
     "How to Take Smart Notes.md",
-    "Permanent Notes.md"
+    "Project Notes.md",
+    "Permanent Notes.md",
+    "Fleeting Notes.md",
+    "How can humans better adapt to hot climates?.md",
+    "Writing is the only thing that matters.md",
+    "Strain.md",
+    "Diffusion Current.md",
+    "Encapsulation.md"
   ]
 }
