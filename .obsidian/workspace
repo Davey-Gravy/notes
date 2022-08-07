@@ -4,24 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7800ecf11e2039",
+        "id": "e66f2c78f68c0901",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "The Way of Zen.md",
+=======
+            "file": "Solve ODE using Taylor Series.md",
+>>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
             "mode": "source",
             "source": false
           }
         }
       },
       {
+<<<<<<< HEAD
         "id": "f6c49b4edd23f660",
+=======
+        "id": "6cf27dfcb386019f",
+>>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Project Notes.md",
+=======
+            "file": "Taylor Series.md",
+>>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
             "mode": "source",
             "source": false
           }
@@ -65,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 161.0068016052246
   },
   "right": {
     "id": "5f8516621f8e5f64",
@@ -81,7 +93,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "The Way of Zen.md",
+=======
+                "file": "Solve ODE using Taylor Series.md",
+>>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +116,51 @@
               "state": {}
             }
           }
+<<<<<<< HEAD
+=======
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "234a6282c593a8b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c571e3701a642f64",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Solve ODE using Taylor Series.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6989606412938244,
+                  "close": false
+                }
+              }
+            }
+          }
+>>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
         ]
       }
     ],
@@ -107,8 +168,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2d7800ecf11e2039",
+  "active": "e66f2c78f68c0901",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "UW_ME_564_1.md",
     "How to Take Smart Notes.md",
     "Project Notes.md",
@@ -119,5 +181,17 @@
     "Strain.md",
     "Diffusion Current.md",
     "Encapsulation.md"
+=======
+    "Taylor Series.md",
+    "Solve ODE using Taylor Series.md",
+    "Ordinary Differential Equations (ODEs).md",
+    "Partial Differential Equations (PDEs).md",
+    "Thermal Runaway.md",
+    "Ordinary Differential Equations (ODEsODEs.md",
+    "UW_ME_564_3.md",
+    "UW_ME_564_2.md",
+    "Silicon Production.md",
+    "Silicon.md"
+>>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
   ]
 }
