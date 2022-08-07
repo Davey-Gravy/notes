@@ -9,31 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "The Way of Zen.md",
-=======
             "file": "Solve ODE using Taylor Series.md",
->>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
             "mode": "source",
             "source": false
           }
         }
       },
       {
-<<<<<<< HEAD
-        "id": "f6c49b4edd23f660",
-=======
         "id": "6cf27dfcb386019f",
->>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
-            "file": "Project Notes.md",
-=======
             "file": "Taylor Series.md",
->>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "70d5d179756663b4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Maclaurin Series.md",
             "mode": "source",
             "source": false
           }
@@ -93,11 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "The Way of Zen.md",
-=======
-                "file": "Solve ODE using Taylor Series.md",
->>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
+                "file": "Taylor Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +111,15 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "2413474efbbe24f4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-<<<<<<< HEAD
-=======
         ],
         "currentTab": 2
       },
@@ -131,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Solve ODE using Taylor Series.md",
+                "file": "Taylor Series.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,28 +162,16 @@
               }
             }
           }
->>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 185.44764709472656,
     "collapsed": true
   },
-  "active": "e66f2c78f68c0901",
+  "active": "6cf27dfcb386019f",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "UW_ME_564_1.md",
-    "How to Take Smart Notes.md",
-    "Project Notes.md",
-    "Permanent Notes.md",
-    "Fleeting Notes.md",
-    "How can humans better adapt to hot climates?.md",
-    "Writing is the only thing that matters.md",
-    "Strain.md",
-    "Diffusion Current.md",
-    "Encapsulation.md"
-=======
+    "Maclaurin Series.md",
     "Taylor Series.md",
     "Solve ODE using Taylor Series.md",
     "Ordinary Differential Equations (ODEs).md",
@@ -190,8 +180,6 @@
     "Ordinary Differential Equations (ODEsODEs.md",
     "UW_ME_564_3.md",
     "UW_ME_564_2.md",
-    "Silicon Production.md",
-    "Silicon.md"
->>>>>>> 1a35972f0c266bd856f9e2696700b62ed2b37483
+    "Silicon Production.md"
   ]
 }

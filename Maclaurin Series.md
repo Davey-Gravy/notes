@@ -1,0 +1,1 @@
+Special case of the Taylor Series, such that $f(x)$ is centered about $x=0$
