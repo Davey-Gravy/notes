@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7800ecf11e2039",
+        "id": "e66f2c78f68c0901",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "UW_ME_564_2.md",
+            "file": "Solve ODE using Taylor Series.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "dd329384dc807726",
+        "id": "6cf27dfcb386019f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Power Law.md",
+            "file": "Taylor Series.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 161.0068016052246
   },
   "right": {
     "id": "5f8516621f8e5f64",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UW_ME_564_2.md",
+                "file": "Solve ODE using Taylor Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,22 +110,63 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "234a6282c593a8b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c571e3701a642f64",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Solve ODE using Taylor Series.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6989606412938244,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2d7800ecf11e2039",
+  "active": "e66f2c78f68c0901",
   "lastOpenFiles": [
+    "Taylor Series.md",
+    "Solve ODE using Taylor Series.md",
     "Ordinary Differential Equations (ODEs).md",
+    "Partial Differential Equations (PDEs).md",
+    "Thermal Runaway.md",
+    "Ordinary Differential Equations (ODEsODEs.md",
+    "UW_ME_564_3.md",
     "UW_ME_564_2.md",
-    "Multidimensional Calculus.md",
-    "Power Law.md",
-    "Project Notes.md",
-    "Derivative.md",
-    "UW_ME_564_1.md",
-    "UW_ME_564.md",
-    "How to Take Smart Notes.md",
-    "Permanent Notes.md"
+    "Silicon Production.md",
+    "Silicon.md"
   ]
 }

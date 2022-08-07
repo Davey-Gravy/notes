@@ -7,7 +7,7 @@ $$
 \frac{dy}{dt}+2ty=0
 $$
 
-(see [[Partial Differential Equations (PDEs)]])
+(see [[Partial Differential Equations (PDEs)]] for more than one independent variable)
 
 ## First Order ODEs
 
@@ -28,7 +28,6 @@ $$
 $$
 
 #### Solution Methods
-
 - Finding roots of the [[Characteristic Equation|characteristic equation]]
 
 ### Non-homogeneous
@@ -38,6 +37,6 @@ This type of equation is generally organized as:
 $$
 ay''+by'+cy=f(t)
 $$
-
+#### Solution Methods
 [[Method of Undetermined Coefficients]]
 
