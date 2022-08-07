@@ -1,16 +1,22 @@
-# Silicon Production
-- [[Silicon]]
+# [[Silicon]] Production
+- Overall reaction: 
+$$
+\ce{SiO2 + 2C \longrightarrow Si + 2CO}
+$$
+
 ## Process
 1. Raw materials stored in day bins
 2. Mixed in proper proportion, fed into furnace
 3. Electric current and arc from electrodes drives reaction to completion
 4. Resulting liquid metal tapped from furnace
 5. Flue gas removed from furnace, cooled to remove SiO<sub>2</sub> dust
+
 ### Raw materials
 - Quartz (SiO<sub>2</sub>)
 - coal-coke
 - Wood chips
 - Iron 
+
 ### Products
 - Si/FeSi
 - CO (CO<sub>2</sub>)
@@ -102,14 +108,7 @@ $$
 \ce{3SiO2_{(s)} + 2SiC_{(s)} \longrightarrow Si_{(l)} + 4SiO_{(g)} + 2CO_{(g)}}
 $$
 
-#### Boudouard reaction
-
-$$
-\ce{C + CO2 \longrightarrow 2CO}
-$$
-
-- equilibrium between CO, CO<sub>2</sub>, and C dependent on temperature
-- at temperature of silicon reaction, CO is dominant species
+[[Boudouard Reaction]]
 
 
 #### Silicon recovery

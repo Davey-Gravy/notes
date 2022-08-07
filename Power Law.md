@@ -10,6 +10,6 @@ $$
 \\
 &\approx\frac{1}{\Delta x}\left[nx^{n-1}\Delta x+\frac{n(n-1)}{2}x^{n-2}\Delta x^2+O(\Delta x^3)\right]
 \\
-&\boxed{\approx nx^{n-1}+\cancel{O(\Delta x)}}
+&\approx \boxed{nx^{n-1}+\cancel{O(\Delta x)}}
 \end{align}
 $$

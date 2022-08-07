@@ -1,7 +1,7 @@
 # Silicon
 - formally a semiconductor, acts like a metal especially in liquid form
 - second most common element in Earth's crust (as SiO<sub>2</sub>)
-- Overall reaction: $$\ce{SiO2 + 2C \longrightarrow Si + 2CO}$$
+
 ## Types
 ### Metallurgical grade (MG-Si)
 - Si content ~99%
