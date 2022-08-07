@@ -1,4 +1,4 @@
-A function can expressed as an infinite sum of the function's derivatives
+A sufficiently-smooth function can expressed as an infinite sum of the function's derivatives
 Named after Brook Taylor
 
 # Definition
