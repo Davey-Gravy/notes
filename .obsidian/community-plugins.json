@@ -9,7 +9,9 @@
   "obsidian-kanban",
   "obsidian-mind-map",
   "obsidian-git",
-  "sliding-panes-obsidian",
   "table-extended",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "readwise-official",
+  "obsidian-full-calendar",
+  "todoist-sync-plugin"
 ]

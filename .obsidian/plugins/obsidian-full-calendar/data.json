@@ -1,0 +1,34 @@
+{
+  "calendarSources": [
+    {
+      "type": "caldav",
+      "color": "#1BADF8",
+      "url": "https://caldav.icloud.com",
+      "username": "daveygravy17@gmail.com",
+      "password": "kpxu-tjtr-skxv-jret",
+      "name": "Calendar",
+      "homeUrl": "https://caldav.icloud.com/10877428993/calendars/31E725B1-C379-4F89-A9F9-B070DBECA6E8/"
+    },
+    {
+      "type": "caldav",
+      "color": "#FF9500",
+      "url": "https://caldav.icloud.com",
+      "username": "daveygravy17@gmail.com",
+      "password": "kpxu-tjtr-skxv-jret",
+      "name": "Home",
+      "homeUrl": "https://caldav.icloud.com/10877428993/calendars/home/"
+    },
+    {
+      "type": "caldav",
+      "color": "#FF2D55",
+      "url": "https://caldav.icloud.com",
+      "username": "daveygravy17@gmail.com",
+      "password": "kpxu-tjtr-skxv-jret",
+      "name": "Work",
+      "homeUrl": "https://caldav.icloud.com/10877428993/calendars/work/"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 0
+}
