@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shallow Copy.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shallow Copy.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "f56a5b9b57e8a96b",
   "lastOpenFiles": [
-    "Shallow Copy.md",
+    "Untitled.md",
+    "Deep Copy.md",
     "Copy Constructors.md",
+    "Shallow Copy.md",
     "C++ Constructors.md",
+    "Carrier Dynamics.md",
+    "Carrier Statistics.md",
     "Constructors.md",
     "Crystals.md",
-    "Transfer Function.md",
-    "State-Space Representation.md",
-    "Control Systems.md",
-    "Control Bootcamp.md",
-    "Failure Modes and Effects Analysis (FMEA).md"
+    "Transfer Function.md"
   ]
 }
