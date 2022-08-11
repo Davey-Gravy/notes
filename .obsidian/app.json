@@ -3,5 +3,6 @@
   "alwaysUpdateLinks": true,
   "autoPairMarkdown": false,
   "promptDelete": false,
-  "vimMode": false
+  "vimMode": false,
+  "legacyEditor": false
 }
