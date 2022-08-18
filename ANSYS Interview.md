@@ -74,3 +74,19 @@ Hierarchy
 * Level 2 engineer, reduced supervision
 * Senior level, managing projects on own
 * Lead, technical or management, or both
+
+Writing papers, self-driven
+
+Yearly performance reviews
+* everyone does regressions
+* feature testing
+* improvements, stretch goals
+
+Successful hires tend to give more updates
+
+Share and learns
+* papers
+* new features
+
+Internal conferences
+
