@@ -43,3 +43,11 @@ Flex (2 or less) vs full-time (at least 3)
 
 Interview with part of the team
 - remote, all day
+
+Vapor vs gas
+* if you compress a vapor it will turn into liquid
+* gas, no
+
+Brian reacting flow
+
+Amman
