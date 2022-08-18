@@ -51,3 +51,26 @@ Vapor vs gas
 Brian reacting flow
 
 Amman
+
+Elijah - lakes region, simulation environment
+* regression testing
+* feature testing
+	* get new features, need to learn about them, do initial testing
+
+Yogesh - MBA at UNH
+
+Test engineer is first customer
+
+Automation methods:
+* Fluent journaling
+* Python
+
+Draw a polygon
+* make class
+
+Hierarchy
+
+* Verification Test Engineer
+* Level 2 engineer, reduced supervision
+* Senior level, managing projects on own
+* Lead, technical or management, or both
