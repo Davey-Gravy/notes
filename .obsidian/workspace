@@ -9,7 +9,60 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "2019-11-29_23-29.md",
+=======
+            "file": "Arrays and Pointers.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "63c69f6a5e579e1d"
+      },
+      {
+        "id": "855cb73b5d36b79d",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Arrays and Pointers.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": true
+            }
+          }
+        },
+        "group": "63c69f6a5e579e1d"
+      },
+      {
+        "id": "5b9327dc8fbfc8a4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Solve ODE using Taylor Series.md",
+>>>>>>> f1e7158 (vault backup: 2022-08-17 20:30:01)
             "mode": "source",
             "source": false
           }
@@ -69,7 +122,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "2019-11-29_23-29.md",
+=======
+                "file": "Arrays and Pointers.md",
+>>>>>>> f1e7158 (vault backup: 2022-08-17 20:30:01)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +166,11 @@
             "state": {
               "type": "localgraph",
               "state": {
+<<<<<<< HEAD
                 "file": "2019-11-29_23-29.md",
+=======
+                "file": "Arrays and Pointers.md",
+>>>>>>> f1e7158 (vault backup: 2022-08-17 20:30:01)
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,6 +209,10 @@
   "active": "eadceb7f7102d6cc",
   "lastOpenFiles": [
     "Maclaurin Series.md",
+<<<<<<< HEAD
+=======
+    "UW_ME_564_3.md",
+>>>>>>> f1e7158 (vault backup: 2022-08-17 20:30:01)
     "Solve ODE using Taylor Series.md",
     "UW_ME_564_3.md",
     "Taylor Series.md",
