@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Solve ODE using Taylor Series.md",
+            "file": "Lattice Boltzmann Method.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5c8594f387a6629b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Collision Operator.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "7634279309cae051",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BGK Model.md",
             "mode": "source",
             "source": false
           }
@@ -69,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BGK Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "BGK Model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,17 +169,17 @@
     "width": 185.44764709472656,
     "collapsed": true
   },
-  "active": "7618d23521cbd6e5",
+  "active": "7634279309cae051",
   "lastOpenFiles": [
+    "Collision Operator.md",
+    "Lattice Boltzmann Method.md",
+    "Solve ODE using Taylor Series.md",
+    "Day Planners/Day Planner-20220806.md",
     "Arrays and Pointers.md",
     "Maclaurin Series.md",
     "UW_ME_564_3.md",
-    "Solve ODE using Taylor Series.md",
     "Taylor Series.md",
     "Navier-Stokes Equations.md",
-    "Ordinary Differential Equations (ODEs).md",
-    "Partial Differential Equations (PDEs).md",
-    "Thermal Runaway.md",
-    "Ordinary Differential Equations (ODEsODEs.md"
+    "Ordinary Differential Equations (ODEs).md"
   ]
 }
