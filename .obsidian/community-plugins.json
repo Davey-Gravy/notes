@@ -5,13 +5,11 @@
   "calendar",
   "obsidian-citation-plugin",
   "dataview",
-  "obsidian-day-planner",
   "obsidian-kanban",
   "obsidian-mind-map",
   "obsidian-git",
+  "sliding-panes-obsidian",
   "table-extended",
   "obsidian-tasks-plugin",
-  "readwise-official",
-  "obsidian-full-calendar",
-  "todoist-sync-plugin"
+  "obsidian-full-calendar"
 ]
