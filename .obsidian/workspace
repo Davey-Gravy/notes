@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unsupervised Learning.md",
+            "file": "Dance Now.md",
             "mode": "source",
             "source": false
           }
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "0e589c61991e7e51",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsupervised Learning.md",
+                "file": "Dance Now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +99,15 @@
   },
   "active": "f56a5b9b57e8a96b",
   "lastOpenFiles": [
+    "The Forever Story.md",
+    "Raydar.md",
+    "Unsupervised Learning.md",
     "Utility Death Spiral.md",
     "Vector (Cross) Product.md",
     "We Cry Together.md",
     "Waterfall Development.md",
     "Writing is the only thing that matters.md",
     "Stokes' Theorem.md",
-    "2019-11-29_23-29.md",
-    "Hydropower Economics.md",
-    "Purple Hearts.md",
-    "Rich Spirit.md"
+    "2019-11-29_23-29.md"
   ]
 }
