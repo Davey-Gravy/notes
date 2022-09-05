@@ -15,7 +15,7 @@ Assume we have a reservoir:
 - Aim to maximize social surplus
 - Assumed that hydro generation has zero marginal cost
 
-### Cost Struccture
+### Cost Structure
 - Not considering new investments, want to find optimal management for existing capacities
 
 ### Variables
