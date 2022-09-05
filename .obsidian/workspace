@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hydropower Economics.md",
+            "file": "Unsupervised Learning.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hydropower Economics.md",
+                "file": "Unsupervised Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "f56a5b9b57e8a96b",
   "lastOpenFiles": [
-    "Purple Hearts.md",
+    "Utility Death Spiral.md",
+    "Vector (Cross) Product.md",
     "We Cry Together.md",
-    "Rich Spirit.md",
-    "Rich - Interlude.md",
-    "Father Time.md",
-    "Die Hard.md",
-    "Worldwide Steppers.md",
-    "N95.md",
-    "United In Grief.md",
-    "ANSYS Interview.md"
+    "Waterfall Development.md",
+    "Writing is the only thing that matters.md",
+    "Stokes' Theorem.md",
+    "2019-11-29_23-29.md",
+    "Hydropower Economics.md",
+    "Purple Hearts.md",
+    "Rich Spirit.md"
   ]
 }
