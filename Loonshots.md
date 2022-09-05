@@ -23,8 +23,8 @@ Inspired by Vannevar Bush and Theodore Vail
 	- Franchise groups - thrive under narrow spans, tight controls, quantitative metrics 
 - Watch your blind side
 	- Don't focus on one type of loonshot
-		- P-type - a breakthrough in technology that brings a new product to market
-		- S-type - a revolution in business structure and operation that increases market share and profit
+		- [[P-type Loonshot]]
+		- [[S-type Loonshot]]
 
 ### 2. Create dynamic equilibrium
 

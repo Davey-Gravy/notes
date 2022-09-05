@@ -1,0 +1,7 @@
+- [[Brayton Cycle]]
+- 4 stroke
+	- [[Diesel Cycle]]
+	- [[Otto Cycle]]
+	- [[Stirling Cycle]]
+- 5 stroke
+	- [[Atkinson Cycle]]

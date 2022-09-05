@@ -7,6 +7,7 @@ $$
 ## Concepts
 
 - [[Line Integrals]]
+- [[Chain Rule]]
 
 ## Theorems
 

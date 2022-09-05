@@ -1,0 +1,1 @@
+Instead of air-fuel mixture intake, fuel injected directly into cylinder

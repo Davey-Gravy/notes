@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "b8035cef1d2c8ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d58d6931bc3051",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2b29969c48dc623",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "764b73570ebef55e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "1a4609a2a5967595",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "324094916ce6737f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e6f55b15fe930c48",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "089b375f3df7f7c2",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "44d58d6931bc3051",
+  "lastOpenFiles": [
+    "Writing is the only thing that matters.md",
+    "How to Take Smart Notes.md",
+    "Zettlekasten.md",
+    "Something to write with, write on.md",
+    "Fleeting Notes.md",
+    "Zotero.net.md",
+    "Space Pen.md",
+    "Literature Notes.md",
+    "C++ Strings.md",
+    "Books.md"
+  ]
+}

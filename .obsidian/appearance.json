@@ -1,6 +1,9 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "cssTheme": "Everforest",
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "CMU Serif",
+  "monospaceFontFamily": "Courier New"
 }

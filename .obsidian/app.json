@@ -4,5 +4,10 @@
   "autoPairMarkdown": false,
   "promptDelete": false,
   "vimMode": false,
+<<<<<<< HEAD
   "legacyEditor": false
+=======
+  "strictLineBreaks": true,
+  "showLineNumber": true
+>>>>>>> 1d72f0fd62d46b0a7639d8c9cd2b528709e045c3
 }
