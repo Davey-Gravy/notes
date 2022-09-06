@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dance Now.md",
+            "file": "Crack Sandwich.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dance Now.md",
+                "file": "Crack Sandwich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   "active": "f56a5b9b57e8a96b",
   "lastOpenFiles": [
     "The Forever Story.md",
+    "Dance Now.md",
     "Raydar.md",
     "Unsupervised Learning.md",
     "Utility Death Spiral.md",
@@ -107,7 +108,6 @@
     "We Cry Together.md",
     "Waterfall Development.md",
     "Writing is the only thing that matters.md",
-    "Stokes' Theorem.md",
-    "2019-11-29_23-29.md"
+    "Stokes' Theorem.md"
   ]
 }
