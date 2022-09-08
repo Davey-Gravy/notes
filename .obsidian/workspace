@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Crack Sandwich.md",
+            "file": "Surround Sound.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "25884b1e0e32c1c0"
+      },
+      {
+        "id": "7c35c14045c11d66",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Surround Sound.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "25884b1e0e32c1c0"
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Crack Sandwich.md",
+                "file": "Surround Sound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,8 +111,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f56a5b9b57e8a96b",
+  "active": "7c35c14045c11d66",
   "lastOpenFiles": [
+    "Crack Sandwich.md",
     "The Forever Story.md",
     "Dance Now.md",
     "Raydar.md",
@@ -107,7 +122,6 @@
     "Vector (Cross) Product.md",
     "We Cry Together.md",
     "Waterfall Development.md",
-    "Writing is the only thing that matters.md",
-    "Stokes' Theorem.md"
+    "Writing is the only thing that matters.md"
   ]
 }
