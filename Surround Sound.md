@@ -39,7 +39,7 @@ Varied delivery
 Followed the beat this time...
 - syllables land on the hi-hats
 
-Doesn't feel like a typical JID verse
+
 
 # First verse (JID)
 
@@ -97,6 +97,13 @@ Does a play on the last line to transition to success again
 
 - Also a reference to an unreleased JID song called "Big Black Truck"
 
+Doesn't feel like a typical JID verse
+- usually has more to say on a deeper level
+- still
+	- talking his shit
+	- crazy wordplay
+	- flow switches
+
 # Second verse (21)
 
 Money theme
@@ -112,7 +119,7 @@ First line:
 
 Talking to his fellow rappers
 "sorry guys, I'm about to end your careers"
-
+I don't think he was satisfied with his first verse
 
 Mike Alstott
 - wore 40, fullback
@@ -142,6 +149,6 @@ Mike Alstott
 - Pool shark (hustler) - someone who runs the tables purely to earn money 
 - Big stick
 	- gun
-	- Reference Teddy Roosevelt
+	- Teddy Roosevelt reference
 		- "Speak softly, and carry a big stick"
 		- trust buster, goes back to Monopoly motif
