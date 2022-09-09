@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Can't Make U Change.md",
+            "file": "Can't Punk Me.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Can't Make U Change.md",
+                "file": "Can't Punk Me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "7c35c14045c11d66",
   "lastOpenFiles": [
+    "Can't Make U Change.md",
     "Surround Sound.md",
     "The Forever Story.md",
     "Dance Now.md",
@@ -107,7 +108,6 @@
     "Jacobian Determinant.md",
     "Raydar.md",
     "Unsupervised Learning.md",
-    "Utility Death Spiral.md",
-    "Vector (Cross) Product.md"
+    "Utility Death Spiral.md"
   ]
 }
