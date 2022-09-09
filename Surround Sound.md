@@ -112,3 +112,29 @@ First line:
 
 Talking to his fellow rappers
 "sorry guys, I'm about to end your careers"
+
+## Motifs
+
+### Monopoly
+
+> We on the block, we own they block
+> It's Monopoly games, we stole they properties
+
+- Monopoly
+	- board game involving buying and sellling blocks of property
+		- you move your piece on squares (blocks)
+	- IRL they are taking over people's property
+	- JID is taking over the rap game
+
+### Billiards
+
+> The same lil' n----s small pond, but a pool shark
+> I aim, big stick, knock, chalk off cue balls
+
+- A shark in a small pond
+- Pool shark (hustler) - someone who runs the tables purely to earn money 
+- Big stick
+	- gun
+	- Reference Teddy Roosevelt
+		- "Speak softly, and carry a big stick"
+		- trust buster, goes back to Monopoly motif
