@@ -14,7 +14,6 @@ Covers all the bases for a rap/hip-hop single
 - he's aware of its power
 	- "some round sounds" double entendre
 
-
 ## Sex
 
 "Pussycat on my lap, push it back and go to town down"
@@ -30,14 +29,17 @@ Covers all the bases for a rap/hip-hop single
 ## Overall
 
 Crazy flip on the Aretha Franklin sample
+- Homage to Ms. Fat Booty by Mos Def
+	- featured on Stars
 
 Varied delivery
 - changes pitch, voice inflection
 - length of syllables
 
 Followed the beat this time...
+- syllables land on the hi-hats
 
-# First verse (JID):
+# First verse (JID)
 
 Homecoming. talking his shit 
 
@@ -93,5 +95,8 @@ Does a play on the last line to transition to success again
 	
 - Also a reference to an unreleased JID song called "Big Black Truck"
 
+# Second verse (21)
 
 
+
+# Third verse (JID)
