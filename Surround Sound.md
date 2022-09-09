@@ -24,7 +24,7 @@ Covers all the bases for a rap/hip-hop single
 ## Money (almost??)
 
 "Puttin rap on my back and I'm black and snatchin' crowns"
-- more about his critical success rather than his revenue
+- more about his critical success rather than commerical success
 
 ## Overall
 
@@ -38,6 +38,8 @@ Varied delivery
 
 Followed the beat this time...
 - syllables land on the hi-hats
+
+Doesn't feel like a typical JID verse
 
 # First verse (JID)
 
@@ -92,11 +94,21 @@ Does a play on the last line to transition to success again
 
 > In the cut, big black truck, pack sacked up 
 > You can pick it up now, n-----, fuck it"
-	
+
 - Also a reference to an unreleased JID song called "Big Black Truck"
 
 # Second verse (21)
 
-
+Money theme
 
 # Third verse (JID)
+
+Beat switch, slowing it down
+
+More talking his shit, more JID-y
+
+First line:
+> Sorry in advance for my bros
+
+Talking to his fellow rappers
+"sorry guys, I'm about to end your careers"
