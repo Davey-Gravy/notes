@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f56a5b9b57e8a96b",
+        "id": "7c35c14045c11d66",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -13,21 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "25884b1e0e32c1c0"
-      },
-      {
-        "id": "7c35c14045c11d66",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Surround Sound.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "25884b1e0e32c1c0"
+        }
       }
     ],
     "direction": "vertical"

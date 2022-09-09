@@ -113,6 +113,13 @@ First line:
 Talking to his fellow rappers
 "sorry guys, I'm about to end your careers"
 
+
+Mike Alstott
+- wore 40, fullback
+	- one of the last full-time fullbacks
+- preceded by Alzheimer's
+	- CTE, fullbacks take heavy hits
+
 ## Motifs
 
 ### Monopoly
