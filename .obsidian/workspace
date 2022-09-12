@@ -9,11 +9,25 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Can't Punk Me.md",
+            "file": "DTSA 5507.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "c389d4ec2b5ffa89"
+      },
+      {
+        "id": "126b9cb511f28125",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DTSA 5507.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "group": "c389d4ec2b5ffa89"
       }
     ],
     "direction": "vertical"
@@ -71,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Can't Punk Me.md",
+                "file": "DTSA 5507.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +113,7 @@
   },
   "active": "7c35c14045c11d66",
   "lastOpenFiles": [
+    "Can't Punk Me.md",
     "Can't Make U Change.md",
     "Surround Sound.md",
     "The Forever Story.md",
@@ -107,7 +122,6 @@
     "JID.md",
     "Jacobian Determinant.md",
     "Raydar.md",
-    "Unsupervised Learning.md",
-    "Utility Death Spiral.md"
+    "Unsupervised Learning.md"
   ]
 }
