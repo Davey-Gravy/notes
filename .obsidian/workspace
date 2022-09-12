@@ -13,8 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "c389d4ec2b5ffa89"
+        }
       },
       {
         "id": "8e977289ea04358b",
@@ -27,19 +26,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "126b9cb511f28125",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "DTSA 5507.md",
-            "mode": "preview",
-            "source": false
-          }
-        },
-        "group": "c389d4ec2b5ffa89"
       }
     ],
     "direction": "vertical"
@@ -125,15 +111,15 @@
   },
   "active": "7c35c14045c11d66",
   "lastOpenFiles": [
-    "Minimum Viable Product.md",
     "DTSA 5507.md",
+    "Minimum Viable Product.md",
+    "blue-green deployment.md",
     "Can't Punk Me.md",
     "Can't Make U Change.md",
     "Surround Sound.md",
     "The Forever Story.md",
     "Dance Now.md",
     "Crack Sandwich.md",
-    "JID.md",
-    "Jacobian Determinant.md"
+    "JID.md"
   ]
 }
