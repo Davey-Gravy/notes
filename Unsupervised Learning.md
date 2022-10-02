@@ -1,5 +1,3 @@
-# Unsupervised Learning
-
 Learning from data without target variables
 
 ## Discrete Latent Variables

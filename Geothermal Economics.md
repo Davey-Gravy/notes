@@ -1,4 +1,3 @@
-# Geothermal Economics
 Based on *Geothermal Handbook (ESMAP 2012)*
 
 ## Geothermal Energy

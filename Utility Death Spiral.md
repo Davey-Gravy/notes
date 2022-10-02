@@ -1,4 +1,3 @@
-# Utility Death Spiral
 Power market:
 - Retailer -> consumer front
 - Network -> grid

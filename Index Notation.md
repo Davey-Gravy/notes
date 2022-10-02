@@ -1,8 +1,7 @@
-# Index Notation
 Method of compactly writing vector operations
 - repeated indices indicate a summation over components
 
-## Traditional vector notation --> Index notation
+# Traditional vector notation --> Index notation
 
 Vectors
 
@@ -42,7 +41,7 @@ $$
 \delta_{ij}=\begin{cases}1&\text{if }i=j\\-1&\text{if }i\neq j\end{cases}\qquad\begin{bmatrix}1&0&0\\0&1&0\\0&0&1\end{bmatrix}
 $$
 
-## Example
+# Example
 
 Material derivative:
 

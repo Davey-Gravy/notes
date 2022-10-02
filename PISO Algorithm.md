@@ -1,4 +1,3 @@
-# PISO Algorithm
 *From [Fluid Mechanics 101](https://www.youtube.com/watch?v=ahdW5TKacok) on YouTube*
 
 **P**ressure-**I**mplicit **S**plitting of **O**perators

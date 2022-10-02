@@ -1,12 +1,10 @@
-# Practical LES
-
-## Eddies
+# Eddies
 
 Turbulent flows contain *eddies* or *vortices* of varying scale and energy, which deviate from the mean flow
 
 LES aims to resolve these eddies using a mesh
 
-### How are Eddies Resolved?
+## How are Eddies Resolved?
 
 - 4 cells minimum are needed to resolve an eddy
 	- one for each direction
@@ -15,9 +13,9 @@ LES aims to resolve these eddies using a mesh
 - The mesh sets the minimum eddy size that can be resolved (implicit LES)
 	- How size of eddies do we want to resolve --> How fine does the mesh need to be?
 
-### Kolmogorov Turbulent Energy Cascade
+## Kolmogorov Turbulent Energy Cascade
 
-#### Wavenumber $(k)$
+### Wavenumber $(k)$
 - Spatial frequency of the eddy
 
 $$
@@ -33,7 +31,7 @@ Since the mesh doesn't resolve all eddies, not all of the turbulent kinetic ener
 - A good LES mesh resolves >80% of the turbulent kinetic energy
 	- Remaining ~20% modeled by the sub-grid model
 
-## Meshing
+# Meshing
 
 - Eddy size/energy varies through out the domain
 	- Determine the ***integral length scale***	

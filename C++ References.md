@@ -1,5 +1,4 @@
-# C++
-```cpp
+````cpp
 int main() {
 	
 	// reference is alias to variable

@@ -1,5 +1,3 @@
-# Specific Gravity
-
 Density ratio between an object and a fluid
 
 $$

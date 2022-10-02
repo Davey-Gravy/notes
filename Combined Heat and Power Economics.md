@@ -1,4 +1,3 @@
-# Combined Heat and Power
 Produce both electricity and heat, used in
 - geothermal
 - fossil fuel

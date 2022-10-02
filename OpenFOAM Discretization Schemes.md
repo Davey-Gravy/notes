@@ -1,6 +1,4 @@
-# OpenFOAM Discretization Schemes
-
-## Time
+# Time
 
 - backward: transient second order
 - bounded
@@ -14,7 +12,7 @@
 - SLTS
 - steadyState: steady simulations (simpleFoam)
 
-## Convective Terms
+# Convective Terms
 
 - upwind: first order
 - linearUpwind: second order, bounded
@@ -23,7 +21,7 @@
 - limitedLinear: second order, bounded, more stable than linear
 	- recommended for LES
 
-## Gradient Terms
+# Gradient Terms
 
 - edgeCellsLeastSquares
 - fourth
@@ -35,7 +33,7 @@ Syntax:
 
 $\text{grad(U)}\quad\text{Gauss}\quad\text{linear};$
 
-## Laplacian Terms
+# Laplacian Terms
 
 - corrected
 	- for meshes with grading and non-orthogonality
@@ -49,7 +47,7 @@ $\text{grad(U)}\quad\text{Gauss}\quad\text{linear};$
 	- for meshes with very low non-orthogonality
 	- more diffusive than limited and corrected
 
-## Recommended Setup
+# Recommended Setup
 
 ```c++
 ddtSchemes

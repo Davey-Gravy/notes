@@ -1,5 +1,3 @@
-# Finite Volume Method
-
 - In terms of CFD codes
 
 We have the [[Navier-Stokes Equations]]:

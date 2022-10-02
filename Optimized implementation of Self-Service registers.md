@@ -1,4 +1,3 @@
-# Optimized implementation of Self-Service registers
 Date: 20/10/2021
 ## Summary
 Self-service registers installed throughout Iceland (Bonus, Kronan)

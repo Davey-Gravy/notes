@@ -1,10 +1,8 @@
-# Method of Integrating Factors
-
 Rewriting a differential equation so that a perfect derivative is formed, making integration trivial.
 
 Employs the use of a "helper function" called the ***integrating factor*** to create a [[Product Rule|product rule]] structure on one side of the equation.
 
-## Derivation
+# Derivation
 
 Consider the non-separable differential equation below:
 

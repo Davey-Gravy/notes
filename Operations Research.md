@@ -1,11 +1,10 @@
-# Operations Research
-## [[Linear Programming]]
+# [[Linear Programming]]
 - [[Simplex Method]]
 	- [[Two-Phase Simplex Method]]
 	- [[Big M Method]]
 
 
-## Nonlinear Programming
+# Nonlinear Programming
 - [[KKT Conditions]]
 - [[Quadratic Programming]]
 - [[Separable Programming]]
@@ -14,7 +13,7 @@
 	- [[Sequential Unconstrained Minimization Technique (SUMT)]]
 	- [[Frank-Wolfe Algorithm]]
 
-## Case Studies
+# Case Studies
 - [[School Timetable Optimization]]
 - [[Travelling Salesman Problem]]
 - [[Vehicle Routing]]

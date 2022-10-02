@@ -1,4 +1,4 @@
-## Inside Class Declaration
+# Inside Class Declaration
 
 ```cpp
 class Account {
@@ -18,7 +18,7 @@ class Account {
 - `balance` is private
 	- public methods needed to access `balance`
 
-## Outside Class Declaration
+# Outside Class Declaration
 
 ```cpp
 void Account::set_balance(double bal) {
@@ -32,7 +32,7 @@ double Account::get_balance() {
 
 - recommended practice as programs get larger
 
-## Separating Declaration from Implementation
+# Separate Declaration from Implementation
 
 Create `.h` file
 

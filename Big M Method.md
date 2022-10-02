@@ -1,5 +1,3 @@
-# Big M Method
-
 - Variant of the [[Simplex Method|simplex method]]
 - Used if the origin is not part of the initial basis
 	- Equality constraints

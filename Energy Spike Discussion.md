@@ -1,5 +1,3 @@
-
-# Energy Spike Discussion
 ## European Commission
 ### Introduction
 - Increase in global demand for energy, gas especially

@@ -1,6 +1,3 @@
-# Stokes Streamfunction
-
-
 Stokes streamfunction $\psi$ describes streamlines and flow velocity in three-dimensional incompressible flow with axisymmetry and is defined as:
 
 $$

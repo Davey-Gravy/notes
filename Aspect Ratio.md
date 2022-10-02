@@ -1,4 +1,3 @@
-# Aspect ratio
 $$\text{Aspect ratio} = \frac{\text{Longest side}}{\text{Shortest side}}$$
 
 - Want aspect ratio to be as close to 1 as possible

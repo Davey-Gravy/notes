@@ -1,7 +1,6 @@
-# Vectors
-
 Definition --> a quantity with both ***magnitude*** and ***direction***
 - force, acceleration, momentum, etc.
+
 ## Notation
 
 Indicated by an arrow: $\vec{F}$

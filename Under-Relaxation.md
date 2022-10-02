@@ -1,5 +1,3 @@
-# Under-Relaxation
-
 Used to improve stability of iterative matrix solvers
 
 

@@ -1,14 +1,12 @@
-# Determinant
-
 Scaling factor for the area of the parallelogram formed by two vectors
 
-## 2D
+# 2D
 
 $$
 \det\left(\begin{bmatrix}a&b\\c&d\end{bmatrix}\right)=\begin{vmatrix}a&b\\c&d\end{vmatrix}=ad-bc
 $$
 
-## 3D
+# 3D
 
 Sign convention given as:
 

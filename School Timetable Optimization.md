@@ -1,4 +1,3 @@
-# School Timetable Optimization
 Date: 20/10/2021
 ## Summary
 - Define date and time classes are given

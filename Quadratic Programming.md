@@ -1,8 +1,6 @@
-# Quadratic Programming
-
 Only difference from [[Linear Programming]] is inclusion of $x_j^2$, $x_ix_j$ $(i\neq j)$ terms. Quite a difference in formulation, however.
 
-## General form
+# General form
 
 $$
 \begin{alignat}{3}
@@ -22,7 +20,7 @@ When $i\neq j$, we get $-\frac{1}{2}(q_{ij}x_ix_j+q_{ji}x_jx_i)=-q_{ij}x_ix_j$, 
 
 Because of this, the matrix $\textbf{Q}$ is always symmetric.
 
-## Example
+# Example
 
 Given as:
 
@@ -64,7 +62,7 @@ $$
 \end{bmatrix}
 $$
 
-## Modified Simplex Method
+# Modified Simplex Method
 1. Find [[KKT Conditions]]
 2. Rewrite the linear constraints into standard form 
 Write in form:

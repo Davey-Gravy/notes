@@ -1,5 +1,3 @@
-# Pressure
-
 Force per unit area
 
 $$
@@ -25,7 +23,7 @@ $$
 P_{gauge}=\rho gh
 $$
 
-## Pascal's Principle
+# Pascal's Principle
 
 Blaise Pascal (1623-1662, France)
 

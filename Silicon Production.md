@@ -1,4 +1,3 @@
-# [[Silicon]] Production
 - Overall reaction: 
 $$
 \ce{SiO2 + 2C \longrightarrow Si + 2CO}
@@ -22,7 +21,7 @@ $$
 - CO (CO<sub>2</sub>)
 
 ## Phases present
-- Silicon
+- [[Silicon]]
 	- liquid at *T* > 1414&degC
 	- may dissolve other elements
 - SiO<sub>2</sub>

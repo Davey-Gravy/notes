@@ -1,5 +1,3 @@
-# Gauss Divergence Theorem
-
 Also known as the Divergence Theorem or Gauss's Theorem
 
 Converts a volume integral into a surface integral

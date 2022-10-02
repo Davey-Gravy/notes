@@ -1,4 +1,3 @@
-# Wall Functions
 Boundary layer results in a varying gradient depending on proximity to the wall. This gradient is important for determining wall shear stress $\tau_w$ and wall heat flux $q_w$, given by:$$\frac{\tau_w}{\rho} = -\nu\frac{\partial U}{\partial y}\Bigg\rvert_{y=0}\qquad \frac{q_w}{\rho c_p} = -\alpha\frac{\partial T}{\partial y}\Bigg|_{y=0}$$
 
 As Reynolds number &uparrow;, boundary layer thickness &downarrow;, computing time &uparrow;

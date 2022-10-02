@@ -1,6 +1,4 @@
-#### Compound Interest
-
-Loan *L* and interest rate *r*
+Given a loan amount *L* and interest rate *r*
 $$
 x(0)=L
 $$
@@ -19,6 +17,6 @@ As compound period approaches zero:
 $$
 \begin{align}
 x(1)&=\lim_{n\rightarrow\infty}\left(1+\frac{r}{n}\right)^nx(0)\\
-&= e^rx(0)
+&= \boxed{e^rx(0)}
 \end{align}
 $$

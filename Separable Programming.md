@@ -1,4 +1,3 @@
-# Separable Programming
 - Have function of two variables $f(x_1, x_2)$
 	- can separate into functions of one variable $f(x_1)+f(x_2)$
 - Assumptions

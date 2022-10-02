@@ -1,4 +1,3 @@
-# Gradient Search
 Similar to gradient descent, instead of marching downward to minimize error, climb upward to maximize objective function
 
 1. Initialize with trial solution $x'$, select $\epsilon$

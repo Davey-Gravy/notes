@@ -9,5 +9,4 @@ def binary_search(arr, val):
 		if result > val:
 			low = midpoint
 			midpoint = (high - low) / 2
-
-```****
+```

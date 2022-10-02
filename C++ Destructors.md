@@ -1,5 +1,3 @@
-# C++ Destructors
-
 ```cpp
 class Player 
 {

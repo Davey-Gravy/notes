@@ -1,12 +1,10 @@
-# Sequential Unconstrained Minimization Technique (SUMT)
-
 Add a barrier function to objective to keep it from leaving the feasible solution area
 - want terms of barrier function to be small
 	- grows larger as approaches solution boundaries
 	- *r* acts as weight for penalty function
 		- increases if solution is near boundary 
 
-## Example
+# Example
 
 $$
 \begin{alignat*}{3}

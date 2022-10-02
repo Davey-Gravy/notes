@@ -1,7 +1,4 @@
-# Support Vector Machines (SVMs)
-
-
-## Linear Classification/Regression
+# Linear Classification/Regression
 
 $$
 y(x)=\mathbf{w}^T\phi(\mathbf{x})+b
@@ -61,7 +58,7 @@ $$
 
 This will be computed using the dual representation
 
-## Nonlinear SVMs
+# Nonlinear SVMs
 
 Employ kernels:
 

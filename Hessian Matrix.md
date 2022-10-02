@@ -1,5 +1,3 @@
-# Hessian Matrix
- 
  Matrix of second derivatives
  
  For 2-D:

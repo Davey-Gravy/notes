@@ -1,6 +1,4 @@
-# Vector Addition and Subtraction
-
-## Addition
+# Addition
 
 Three primary methods
 1. Parallelogram law
@@ -18,7 +16,7 @@ $$
 \vec{a}+\vec{b}=\vec{b}+\vec{a}
 $$
 
-### Subtraction
+# Subtraction
 
 Subtraction of vectors is simply the addition of a negative component
 

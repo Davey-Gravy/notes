@@ -1,11 +1,10 @@
-# Perpendicular Axis Theorem
-
+# Definition
 > The [[Polar Moment of Inertia|polar moment of inertia]] of an object is given by:
-> $$
-> J=I_x+I_y
-> $$
+>$$
+J=I_x+I_y
+$$
 
-## Derivation
+# Derivation
 
 Given the radius $\rho$ from the origin to a 2D element $dA$
 

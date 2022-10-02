@@ -1,5 +1,3 @@
-# Principal Component Analysis
-
 Tool for dimensionality reduction, lossy data compression, feature extraction, and data visualization
 
 Definition
@@ -16,7 +14,7 @@ Two definitions, same algorithm:
 		- mean square distance between data and projections
 		- find low dimensional space that represents observed data the best
 
-## Maximum Variance Formulation
+# Maximum Variance Formulation
 
 - Start with data set $\{\mathbf{x}_n\}_{n=1}^N$ with dimension $D$
 - Project data into subspace with dimension $M<D$ while maximizing variance
@@ -64,7 +62,7 @@ Algorithm:
 3. Project data onto subspace using:$$\mathbf{y} = \mathbf{U}^T\mathbf{x}$$$$\mathbf{U} = [\mathbf{u}_1,\mathbf{u}_2,\dots,\mathbf{u}_M]$$
  	- $\mathbf{U}$ is a matrix with eigenvectors as columns
 
-## Minimum Error Formulation
+# Minimum Error Formulation
 Start with basis whose vectors satisfy:
 
 $$
@@ -133,61 +131,5 @@ $$
 
 Distortion is represented in eigenvalues of dimensions > $M+1$
 
-# Probabilistic PCA
-Introduce random variables
-1. Define random variable ***z*** in lower dimension with Guassian distribution
-$$
-p(\mathbf{z}) = \mathcal{N}(\mathbf{z}|0,\mathbf{I})
-$$
-
-2. Observed random variable ***x*** has a conditional distribution given by:
-$$
-p(\mathbf{x|z}) = \mathcal{N}(\mathbf{x}|\mathbf{Wz}+\boldsymbol{\mu}, \sigma^2\mathbf{I})$$where $$\mathbf{x} = \mathbf{Wz}+\boldsymbol{\mu}+\boldsymbol{\epsilon},\quad\boldsymbol{\epsilon}~\mathcal{N}(\mathbf{z}|0,\sigma^2\mathbf{I})
-$$
-
-4. Marginal distribution of data:
-
-$$
-p(\mathbf{x}) = \int p(\mathbf{x|z})p(\mathbf{z})d\mathbf{z}=\mathcal{N}(\mathbf{x}|\boldsymbol{\mu},\mathbf{C})
-$$
-
-where 
-$$
-\mathbf{C} = \mathbf{W}\mathbf{W}^T+\sigma^2\mathbf{I}
-$$
-
-5. Posterior distribution is:
-
-$$
-p(\mathbf{z|x})=\mathcal{N}(\mathbf{z}|\mathbf{M}^{-1}\mathbf{W}^T(\mathbf{x}-\boldsymbol{\mu}),\sigma^2\mathbf{M})
-$$
-
-Estimate parameters
-- $\boldsymbol{\mu}_{ML}=\bar{\boldsymbol{x}}$
-	- sample mean
-- $\mathbf{W}_{ML} = \mathbf{U}_M(\mathbf{L}_M-\sigma^2\mathbf{I})^{\frac{1}{2}}\mathbf{R}$
-	- $\mathbf{U}_M$ - eigenvector matrix
-	- $\mathbf{L}_M$ - matrix of eigenvalues along diagonal
-	- $\mathbf{R}$ - arbitrary rotation matrix
-- $\sigma^2_{ML} = \frac{1}{D-M}\sum_{i=M+1}^D\lambda{i}$
-	- average of eigenvalues we don't use
-
-Can use [[Expectation Maximization (EM) Algorithm|EM Algorithm]]
-- computational advantages in high dimensions
-- can handle missing data
-- required for factor analysis
-
-## Factor Analysis
-Very similar to probabilistic PCA, just the conditional distribution is different:
-$$
-p(\mathbf{x|z} = \mathcal{N}(\mathbf{x|Wz}+\boldsymbol{\mu},\boldsymbol{\Psi})
-$$
-
-where
-
-$$
-\mathbf{x}= \mathbf{Wz}+\boldsymbol{\mu}+\boldsymbol{\epsilon}\quad \boldsymbol{\epsilon}~\mathcal{N}(\mathbf{z}|0,\boldsymbol{\Psi})
-$$
-
-- ***W*** - factor loading matrix, explains covariance between observed variables
-- ***&Psi;*** - uniqueness, independent noise variances for each observed variable
+[[Probabilistic PCA]]
+[[Factor Analysis]]

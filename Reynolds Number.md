@@ -1,7 +1,6 @@
-# Reynolds Number
-Dimensionless number describing the effect of viscosity in different flow scenarios
+Dimensionless number describing the effect of viscosity in different flow scenarios.
 
-Ratio between the largest and smallest eddies
+Ratio between the largest and smallest eddies.
 
 $$
 Re = \frac{\rho uL}{\mu}

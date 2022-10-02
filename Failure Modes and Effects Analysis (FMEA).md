@@ -1,8 +1,6 @@
-# Failure Modes and Effects Analysis (FMEA)
-
 Design tool used to assess risk associated with the different ways (modes) that a system can fail, the severity of their effects, and how to mitigate risk
 
-## Steps 
+# Steps 
 
 1. Identify ***modes*** of failure
 2. Identify effects of each mode

@@ -4,6 +4,8 @@ A [[Compiled Languages|compiled]], [[Static Typing|statically-typed]], general-p
 
 Written with embedded systems programming in mind, where resource management, low-level operations, and high-performance are essential
 
+# Concepts and Implementations
+
 - [[Arrays]]
 	- [[Arrays and Pointers]]
 	- [[C++ Arrays]]

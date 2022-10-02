@@ -1,5 +1,3 @@
-# Second Moment of Area
-
 Measure of a shape's area relative to a given axis
 
 - Can be calculated for any axis using the [[Parallel Axis Theorem|parallel axis theorem]]

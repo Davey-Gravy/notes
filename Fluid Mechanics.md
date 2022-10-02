@@ -1,10 +1,8 @@
-# Fluid Mechanics
-
 The study of [[Fluids|fluids]] at rest (fluid statics) and in motion (fluid dynamics)
 
 - [[Stokes Streamfunction]]
 
-## Fluid Statics
+# Fluid Statics
 
 Governing equation:
 
@@ -34,7 +32,7 @@ $$
 \Delta p=\rho gh
 $$
 
-### Buoyancy
+## Buoyancy
 
 Archimedes' Principle
 
@@ -59,7 +57,7 @@ $$
 
 The net force acting on the cube is equal to the weight of the liquid displaced by the cube, and is called the ***buoyant force***
 
-## Fluid Dynamics
+# Fluid Dynamics
 - [[Reynolds Transport Theorem]]
 - [[Reynolds Number]]
 - [[Computational Fluid Dynamics (CFD)]]

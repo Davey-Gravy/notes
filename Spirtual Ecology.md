@@ -1,4 +1,3 @@
-# Spiritual Ecology
 ## Preface and Introduction
 - Solutions to environmental crisis focused on science and technology
 - humanity ignored spirituality

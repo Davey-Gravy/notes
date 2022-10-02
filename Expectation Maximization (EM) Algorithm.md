@@ -1,4 +1,3 @@
-# Expectation Maximization (EM) Algorithm
 - More general, used for [[Gaussian Mixture Models]] in this note
 	- assume parameters known to find responsibilities
 		- Differentiate the likelihood function wrt to means, set to zero

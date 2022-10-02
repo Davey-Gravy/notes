@@ -1,5 +1,3 @@
-# Loonshots
-
 Loonshot: a high-risk, a high reward business endeavor
 
 The author's argument:

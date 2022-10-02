@@ -1,5 +1,3 @@
-# Strain
-
 Deformation per unit length
 
 $$

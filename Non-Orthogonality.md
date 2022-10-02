@@ -1,4 +1,3 @@
-# Non-Orthogonality
 Most important mesh quality metric affecting stability of CFD solutions
 
 Ideally the vector connecting neighboring cell centroids $\boldsymbol{d}_{PN}$ would be parallel with the face outward normal $\hat{\boldsymbol{n}}_f$

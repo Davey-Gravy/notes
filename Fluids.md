@@ -1,10 +1,8 @@
-# Fluids
-
 -  materials that take the shape of its container
 	- liquid (incompressible)
 	- gas (compressible)
 
-## Properties
+# Properties
 
 - [[Specific Gravity]]
 - [[Pressure]]

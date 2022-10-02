@@ -1,4 +1,3 @@
-#### The Derivative
 Rate of change of a function $f(x)$ with respect to $x$
 
 $$

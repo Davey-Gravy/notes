@@ -1,10 +1,8 @@
-# Gaussian Mixture Models
-
 - soft assignment of data to clusters
 	- probabilistic treatment to clustering
 - each cluster represented by a Gaussian, mixed together with weighing coefficient
 
-## 4 Operations
+# 4 Operations
 
 1. Calculate total likelihood *p(**x**)*
 2. Draw sample from distribution ***x*** ~ *p(**x**)*
@@ -15,7 +13,7 @@
 	- Covariance matrices
 
 
-### Calculate Total Likelihood
+## Calculate Total Likelihood
 
 Likelihood of data point belonging to specific cluster:
 
@@ -29,13 +27,13 @@ $$
 p(\textbf{x}) = \sum_{k=1}^K\pi_k\mathcal{N}(\textbf{x}|\boldsymbol{\mu}_k, \boldsymbol{\Sigma}_k)
 $$
 
-### Sampling from Gaussian Mixtures
+## Sampling from Gaussian Mixtures
 
 Generate a single data point
 1. Pick one of the components using probability *&pi;*<sub>k</sub>
 2. Draw a sample from that component
 
-### Assign Point to a Cluster
+## Assign Point to a Cluster
 
 Labels -> latent (hidden) variables:
 

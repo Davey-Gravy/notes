@@ -1,8 +1,6 @@
-# Stress
+# Engineering Stress
 
-## Engineering Stress
-
-### Axial Stress
+## Axial Stress
 
 Load applied on an area direct along the axis of the object:
 
@@ -19,7 +17,7 @@ $$
 
 Axial stress distribution assumed to be uniform across area, acts through the centroid of the object.
 
-### Shear Stress
+## Shear Stress
 
 Load applied on an area perpendicular to the axis of the object:
 
@@ -29,7 +27,7 @@ $$
 
 Cannot be assumed to be uniformly distributed.
 
-### Axial Loading on an Oblique Plane
+## Axial Loading on an Oblique Plane
 
 Decompose $P$ into normal component $F$ and tangential component $V$:
 

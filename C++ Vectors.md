@@ -1,4 +1,3 @@
-
  Container in the C++ Standard Library
  
 - Dynamic array

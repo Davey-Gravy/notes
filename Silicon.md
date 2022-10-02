@@ -1,4 +1,3 @@
-# Silicon
 - formally a semiconductor, acts like a metal especially in liquid form
 - second most common element in Earth's crust (as SiO<sub>2</sub>)
 

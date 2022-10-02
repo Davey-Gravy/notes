@@ -1,3 +1,12 @@
+| Command             | Key combination |
+| ------------------- | --------------- |
+| Insert mode         | `a`             |
+| Command mode        | `esc`           |
+| Quit                | `:q`            |
+| Quit without saving | `:q!`           |
+| Save and quit       | `:wq`, `:x`     |
+| Delete line         | `dd`           |
+
 - Command Mode: `Esc`
 	- Move Cursor 
 		- Left: `h`

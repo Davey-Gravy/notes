@@ -1,5 +1,3 @@
-# Scalar (dot) Product
-
 Projection of a vector onto another
 
 - measure of how much two vectors point in the same direction

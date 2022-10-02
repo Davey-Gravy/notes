@@ -1,4 +1,3 @@
-#### Power Law
 $$
 \frac{df}{dx}=nx^{n-1}
 $$

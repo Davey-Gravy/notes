@@ -1,6 +1,3 @@
-# Ordinary Differential Equations (ODEs)
-
-
 **Ordinary** - involves only *one* independent variable
 
 $$

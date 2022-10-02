@@ -1,6 +1,4 @@
- # Renewable Energy Economics
-Want to replace fossil fuels:
-- will carbon price be sufficient
+Want to replace fossil fuels, will carbon tax be sufficient
 
 Promotion of RE -> unpriced [[Externality|externality]] of CO2 emission
 - pricing externality
@@ -12,6 +10,7 @@ lazard.com LCOE
 ### Technology Mandates
 - may not be efficient
 	- applies uniform standards to different emitters
+
 ### Subsidies for RE
 Clean portfolio standard
 - minimum share of electricity from RE
@@ -39,6 +38,7 @@ Clean portfolio standard
 	- may lead to overconsumption
 2. Benefit leakeage
 	- subsidized green power being exported, benefits not seen domestically
+
 #### Energy Security
 Not just about self-sufficiency
 - Diversification

@@ -1,7 +1,6 @@
-# Crew Scheduling in the Airline Industry
 Date: 27/10/2021
 
-## Summary
+# Summary
 Rapid expansion in airline industry
 - large number of pairings
 - complex rules, safety regulations

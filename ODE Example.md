@@ -1,4 +1,3 @@
-### ODE Example
 **x** is the size of a population of bunnies. The rate of change of its growth is proportional to its size in time:
 $$
 \frac{d\mathbf{x}}{dt}=\dot{\mathbf{x}}=\lambda\mathbf{x}

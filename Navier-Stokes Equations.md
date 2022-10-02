@@ -1,4 +1,4 @@
-# Navier-Stokes
+# Definition
 
 Newton's 2<sup>nd</sup> law ($\vec{F} = m\vec{a}$) for a fluid
 
@@ -19,9 +19,9 @@ $$
 \rho\frac{D\vec{u}}{Dt}=-\nabla p+\mu\nabla^2\vec{u}
 $$
 
-## Differential Form
+# Differential Form
 
-### Conservation of Mass
+## Conservation of Mass
 
 For a *system*:
 

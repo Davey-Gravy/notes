@@ -1,11 +1,11 @@
-# Differential Equations
-Definition: a mathematical expression containing a function and one or more of its derivatives
+# Definition
+Mathematical expression containing a function and one or more of its derivatives:
 
 $$
 \frac{d^ny(x)}{dx^n}+\dots+\frac{dy(x)}{dx}+y(x)=f(x)
 $$
 
-## First-Order Linear Differential Equations
+# First-Order Linear Differential Equations
 
 A ***first-order*** differential equation contains only first derivatives of the function
 
@@ -24,7 +24,7 @@ b_n\frac{d^ny(x)}{dx^n}+\dots+b_1\frac{dy(x)}{dx}+b_0y(x)=0
 $$
 
 
-### Solving
+## Solving
 $$
 y'+ay=0
 $$
@@ -32,7 +32,7 @@ $$
 $$
 y=Ce^{-at}
 $$
-#### Example
+## Example
 
 $$
 \begin{align}
@@ -40,7 +40,7 @@ $$
 y(0)&=3
 \end{align}
 $$
-##### Solution
+## Solution
 $$
 y=Ce^{-5t}
 $$
@@ -57,7 +57,7 @@ $$
 \boxed{y=3e^{-5t}}
 $$
 
-## Second-Order Linear Differential Equations
+# Second-Order Linear Differential Equations
 A ***second-order*** differential equation contains both first *and* second derivatives of the function
 
 $$
@@ -78,7 +78,7 @@ Second-order differential equations often describe real-world systems such as el
 	- $\zeta=1$
 	- characteristic equation has two identical real roots
 
-### Solving
+## Solving
 Given the differential equation:
 
 $$
@@ -123,14 +123,14 @@ $$
 \alpha = -a/2\qquad\beta=\frac{\sqrt{4b-a^2}}{2}
 $$
 
-#### Example
+## Example
 What is the general solution to this homogeneous differential equation?
 
 $$
 y''-8y'+16y=0
 $$
 
-##### Solution
+## Solution
 $$
 r^2-8r+16=0
 $$
@@ -145,7 +145,7 @@ $$
 \boxed{y=(C_1+C_2x)e^{4x}}
 $$
 
-## Nonhomogeneous Differential Equations
+# Nonhomogeneous Differential Equations
 
 $$
 y(x)=y_h(x)+y_p(x)
@@ -154,7 +154,7 @@ $$
 - $y_h(x)$ - complementary (homogeneous) solution
 - $y_p(x)$ - particular solution
 
-### Method of Undetermined Coefficients
+## Method of Undetermined Coefficients
 A method of finding the particular solution
 - can only be used if the forcing function (right hand side) is one of the following
 

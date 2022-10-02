@@ -1,5 +1,4 @@
-
-## Declaring
+# Declaration
 
 ```cpp
 class Player
@@ -35,7 +34,7 @@ class Account
 }; 
 ```
 
-## Instantiating
+# Instantiation
 
 ```cpp
 Player frank;
@@ -52,7 +51,7 @@ Account *mary_account = new Account();
 delete mary_account
 ```
 
-## Accessing
+# Access
 
 ```cpp
 int main() {

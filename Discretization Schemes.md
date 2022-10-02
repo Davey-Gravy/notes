@@ -1,6 +1,4 @@
-# Discretization Schemes
-
-## Background
+# Background
 
 - CFD codes compute values at the cell centroids
 - We need the value at the face centers

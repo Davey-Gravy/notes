@@ -1,4 +1,4 @@
-# Characteristic Equation
+Used to solve [[Ordinary Differential Equations (ODEs)|ODEs]]
 
 We can use the general form of a first order homogeneous ODE to inspire a solution for the $n$-th order version.
 

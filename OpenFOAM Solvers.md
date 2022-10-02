@@ -1,16 +1,14 @@
-# OpenFOAM Solvers
-
 *From [CFD Direct](https://cfd.direct/openfoam/user-guide/v9-standard-solvers/#x13-960003.5)*
 
-## Basic
+# Basic
 
 - laplacianFoam
 - potentialFoam
 - scalarTransportFoam
 
-## Incompressible
+# Incompressible
 
-### Steady-State
+## Steady-State
 
 - adjointShapeOptimizationFoam
 - boundaryFoam
@@ -19,7 +17,7 @@
 	- porousSimpleFoam
 	- SRFSimpleFoam
 
-### Transient
+## Transient
 
 - icoFoam
 - nonNewtonianIcoFoam
@@ -30,16 +28,16 @@
 	- [[PISO Algorithm]]
 - shallowWaterFoam
 
-## Compressible
+# Compressible
 
 - rhoCentralFoam
 - rhoPimpleFoam
 - rhoPorousSimpleFoam
 - rhoSimpleFoam
 
-## Multiphase
+# Multiphase
 
-###  Incompressible
+##  Incompressible
 
 - driftFluxFoam
 - interFoam
@@ -49,11 +47,11 @@
 - potentialFreeSurfaceFoam
 - twoLiquidMixingFoam
 
-## Direct Numerical Simulation (DNS)
+# Direct Numerical Simulation (DNS)
 
 - dnsFoam
 
-## Combustion
+# Combustion
 
 - buoyantReactingFoam
 - chemFoam
@@ -64,32 +62,32 @@
 - XIEngineFoam
 - XiFoam
 
-## Heat Transfer / Buoyancy-Driven
+# Heat Transfer / Buoyancy-Driven
 
 - buoyantPimpleFoam
 - buoyantSimpleFoam
 - chtMultiRegionFoam
 - thermoFoam
 
-## Particle-Tracking
+# Particle-Tracking
 
 - denseParticleFoam
 - particleFoam
 - rhoParticleFoamf
 
-## Discrete Methods
+# Discrete Methods
 
 - dsmcFoam
 - mdEquilibrationFoam
 - mdFoam
 
-## Electromagnetics
+# Electromagnetics
 
 - electrostaticFoam
 - magneticFoam
 - mhdFoam
 
-## Stress Analysis of Solids
+# Stress Analysis of Solids
 
 - solidDisplacementFoam
 - solidEquilibriumDisplacementFoam

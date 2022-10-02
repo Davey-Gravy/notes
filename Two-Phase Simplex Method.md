@@ -1,4 +1,3 @@
-# Two-Phase Simplex Method
 If there is a constraint with a = sign, can't use normal simplex method. Simplex method searches for corner points of feasible solution area, but if the origin is not part of the feasible solution area, need to use either the [[Big M Method]] or Two-Phase Simplex Method:
 $$
 \begin{alignat}{3}

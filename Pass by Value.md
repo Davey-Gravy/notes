@@ -1,5 +1,3 @@
-# Pass-By-Value 
-
 Default argument pass to function
 
 - copy of data is passed to function

@@ -1,5 +1,3 @@
-# Convex Programming
-Convex programming
 - objective function is concave
 - constraints are convex
 

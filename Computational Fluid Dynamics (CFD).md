@@ -1,19 +1,17 @@
-# Computational Fluid Dynamics (CFD)
-
 A field that aims to simulate [[Fluid Mechanics|fluid mechanics]] using techniques of numerical analysis, [[Linear Algebra|linear algebra]], [[Multidimensional Calculus|multidimensional calculus]], and [[High-Performance Computing|high-performance computing]]
 
-## Textbooks
+# Textbooks
 
 - [[Essential Computational Fluid Dynamics]]
 
-## Theory
+# Theory
 
 - [[Navier-Stokes Equations]]
 	- [[Finite Volume Method]]
 - [[Wall Functions]]
 - [[Discretization Schemes]]
 
-### Turbulence Modeling
+## Turbulence Modeling
 
 - [[Reynolds Averaged Navier-Stokes (RANS)]]
 - [[Large Eddy Simulation (LES)]]
@@ -33,7 +31,14 @@ A field that aims to simulate [[Fluid Mechanics|fluid mechanics]] using techniqu
 - [[SIMPLE Algorithm]]
 - [[PISO Algorithm]]
 
-## Software Packages
+# Software Packages
+
+## Open Source
 
 - [[OpenFOAM]]
+- SU2
+
+## Commerical
+
 - ANSYS Fluent
+- Siemens StarCCM+

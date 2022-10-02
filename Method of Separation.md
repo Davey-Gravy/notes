@@ -1,4 +1,4 @@
-# Method of Separation
+Solution method for [[Partial Differential Equations (PDEs)|PDEs]]
 
 Can be performed on ***separable*** equations:
 
@@ -7,8 +7,6 @@ F(y,x)=M(y)\,N(x)
 $$
 
 $F(y,x)$ can be separated into a function of $x$ alone and a function of $y$ alone.
-
-## Generally
 
 Separate variables into terms:
 
@@ -26,7 +24,7 @@ $$
 \int\frac{1}{M(y)}dy=\int N(x)\,dx
 $$
 
-## Example
+# Example
 
 Separate variables into separate terms:
 

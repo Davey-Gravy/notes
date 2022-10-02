@@ -1,4 +1,4 @@
-## Buddhism 
+# Buddhism 
 
 *kalpa*
 - cosmic cycle lasting 4,320,000,000 years

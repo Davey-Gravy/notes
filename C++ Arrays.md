@@ -1,5 +1,3 @@
-# [[C++ Arrays]]
-
 - Fixed size
 - Compound data type
 	- Collection of elements of the same type

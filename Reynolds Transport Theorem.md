@@ -1,5 +1,3 @@
-# Reynolds Transport Theorem
-
 Method to switch from ***system*** analysis to ***control volume*** analysis
 
 - System:  collection of matter of fixed identity

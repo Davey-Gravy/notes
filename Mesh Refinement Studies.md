@@ -1,4 +1,4 @@
-# Mesh Refinement Studies
+# Background
 
 An ideal CFD mesh has an infinite number of cells, which is not practical
 - a finite number of cells must be used --> discretization error
@@ -9,26 +9,22 @@ An ideal CFD mesh has an infinite number of cells, which is not practical
 		- accuracy
 		- computational expense
 
-## Discretization Error
+# Discretization Error
 
-Consider a general flow quantity $\phi$. Over a small distance, the profile of $\phi$ can be represented by a Taylor series expansion:
+Consider a general flow quantity $\phi$ (temperature, velocity, pressure, etc.). Over a small distance, the profile of $\phi$ can be represented by a Taylor series expansion:
 
 $$
 \phi = c_0 + c_1x+c_2x^2+c_3x^3 + \dots +c_nx^n
 $$
 
 CFD codes use linear variation between cells:
-
 $$
 \phi_\text{CFD} = c_0+c_1x
 $$
-
 Discretization error is given by the difference between the Taylor series representation and the CFD approximation:
-
 $$
-e = \phi - \phi_\text{CFD}=c_2+c_3x^3+\dots+c_nx^n
+e = \phi - \phi_\text{CFD}=\boxed{c_2+c_3x^3+\dots+c_nx^n}
 $$
-
 The error is proportional to distance squared ($x^2$)
 - reducing distance by 1/2 reduces error by 1/4
 	- second-order accurate, $p=2$
@@ -42,7 +38,7 @@ $$
 h = \frac{1}{N}\sum_\text{cells}V_p^{1/3}
 $$
 
-### Mesh Density
+# Mesh Density
 
 Representative cell length should differ by at least 30% between each mesh
 
@@ -50,7 +46,7 @@ $$
 r = \frac{h_\text{coarse}}{h_\text{medium}} > 1.3\qquad r= \frac{h_\text{medium}}{h_\text{fine}} > 1.3
 $$
 
-## Richardson Extrapolation
+# Richardson Extrapolation
 
 Having found the solution variable $\phi$ for each representative cell length, a curve can be fitted to the data and $\phi$ can be extrapolated at $h=0$ (an infinitely fine mesh).
 
@@ -83,7 +79,7 @@ $$
 \phi_0 = \frac{r_{21}^p\phi_1-\phi_2}{r_{21}^p-1}
 $$
 
-### Quantifiying Error
+# Quantifiying Error
 
 Relative error:
 

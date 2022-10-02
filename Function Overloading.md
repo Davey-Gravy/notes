@@ -1,5 +1,3 @@
-# Overloading
-
 Functions with different parameter lists, but the same name
 - Compiler looks at types of arguments, function definition/prototype, decides which version to use
 	- Return type not considered by compiler

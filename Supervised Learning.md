@@ -1,6 +1,4 @@
-# Supervised Learning
-
-## Background
+# Background
 
 Given ***training samples***,
 
@@ -20,14 +18,12 @@ find a good approximation to the desired function
 $$
 y(\mathbf{x})\approx f(\mathbf{x})
 $$
-
-### Goal
-
+Goal:
 - Minimize ***generalization error***
 	- probability of making an error on *unseen* data points
 	- cross-validation
 
-### Scenarios
+## Scenarios
 
 Medical diagnosis
 
@@ -44,14 +40,14 @@ Speech recognition
 - $\mathbf{x}$ - recorded signal
 - $f(\mathbf{x})$ - sentence in words
 
-### When to Use?
+# When to Use?
 
 - There is no human expert
 - Humans can perform the task but can't explain how
 - The desired function changes too frequently
 - The application is user-specific
 
-## Methods
+# Methods
 
 - [[Decision Trees]]
 - [[Linear Regression]]

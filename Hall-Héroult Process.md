@@ -1,5 +1,3 @@
-# Hall-Héroult Process
-
 Aluminum production method
 - Charles M. Hall, Paul Héroult
 	- Patented independently 1886
@@ -9,7 +7,7 @@ Aluminum production method
 	\ce{2Al2O3_{(diss)} + 3 C_{(s)} -> 4Al_{(l)} + 3CO2_{(g)}}
 	$$
 
-## Difficulties addressed
+# Difficulties addressed
 
 - Aluminum likes to react with oxygen
 

@@ -1,4 +1,3 @@
-# Robust Optimization and Aircraft Parts
 Date: 27/10/2021
 
 ## Summary

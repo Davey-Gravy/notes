@@ -1,11 +1,9 @@
-# Reduction of Order
-
 - Effective on any linear [[Ordinary Differential Equations (ODEs)|ODE]]
 - Finds secondary solutions of an ODE given that we found one solution
 
 Uses the product of a known solution and a "helper" function. By substituting this product into the differential equation and applying the product rule repeatedly, all terms of the undifferentiated function cancel, leaving behind a lower order equation for the first derivative of the helper function, which can then by solved and integrated to find the exact value of the helper function.
 
-## Example
+# Example
 
 Assuming $p$, $q$, and $r$ are given, continuous functions, we have:
 

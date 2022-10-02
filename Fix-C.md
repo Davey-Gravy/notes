@@ -1,5 +1,3 @@
-# Fix-C
-
 Fixed carbon ratio in silicon production
 - determined based on desired silicon yield
 

@@ -1,5 +1,3 @@
-# Hydropower
-
 Uses modified Hotelling model
 
 Must regulate:

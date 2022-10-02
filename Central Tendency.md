@@ -1,18 +1,16 @@
-# Central Tendency
-
 Fancy term for average
 
-## Mean (Arithmetic)
+# Mean (Arithmetic)
 
-### Sample
+## Sample
 
-The sample mean is the mean calculated from a subset of the population of size $n$
+The mean calculated from a subset of the population of size $n$
 
 $$
 \bar{x}=\frac{1}{n}\sum_{i=1}^nx_i
 $$
 
-### Population
+## Population
 
 The population mean is the mean of all observations of the population with size $N$
 
@@ -22,14 +20,14 @@ $$
 
 Can be skewed by ***outliers*** -- data points that are not representative of the set and influence the mean
 
-## Median
+# Median
 
-The median is the middle value of a dataset if it is odd-sized. If the set is even-sized, the median is the average of the two middle values.
+The middle value of a dataset if it is odd-sized. If the set is even-sized, the median is the average of the two middle values.
 
 $$
 \text{Median}(X)=\begin{cases}X\left(\frac{n}{2}\right)& n \text{ odd}\\\frac{X\left(\frac{n+1}{2}\right)+X\left(\frac{n-1}{2}\right)}{2}&n\text{ even}\end{cases}
 $$
 
-## Mode
+# Mode
 
-The mode is the most common value in a dataset
+The most common value in a dataset

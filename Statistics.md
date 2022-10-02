@@ -1,5 +1,3 @@
-# Statistics
-
 Field associated with gaining insight from data
 
 ## Types

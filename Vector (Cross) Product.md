@@ -1,5 +1,3 @@
-# Vector (cross) Product
-
 Results in a ***vector*** perpendicular to the two vectors used
 
 - Measures how much two vectors point in different directions

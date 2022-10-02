@@ -1,5 +1,3 @@
-# Bayes' Theorem
-
 > $$
 > p(C|x)=\frac{p(x|C)\,p(C)}{p(x)}
 > $$

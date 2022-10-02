@@ -1,5 +1,3 @@
-# Method of Undetermined Coefficients
-
 Used when the right hand side of a [[Ordinary Differential Equations (ODEs)#Non-homogeneous|non-homogeneous ODE]] is a sum or product of simple polynomial, exponential, and trigonometric functions.
 
 A guess is made about the form of the solution, which is then substituted in and coefficients are selected to satisfy the equation.

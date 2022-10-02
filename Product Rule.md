@@ -1,5 +1,3 @@
-# Product Rule
-
 Used when differentiating the product of two functions
 
 $$

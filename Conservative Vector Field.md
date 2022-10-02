@@ -1,6 +1,4 @@
-# Conservative Vector Field
-
-## Definition
+# Definition
 
 > A vector field $\vec{F}$ is *conservative* on an  open domain if 
 > $$

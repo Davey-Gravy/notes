@@ -1,5 +1,3 @@
-# K-Means Clustering
-
 - Exemplar - Old Faithful eruptions
 	- correlation -> duration of eruption and time between eruptions
 - Goal -> represent data in K clusters

@@ -1,4 +1,3 @@
-# Mesh Quality
 How good are our cells?
 - Tetrahedrons
 - Hexahedrons
@@ -6,7 +5,7 @@ How good are our cells?
 
 Why do bad meshes result in solution divergence?
 
-## Recommended Mesh Quality Metrics
+# Recommended Mesh Quality Metrics
 | Metric                     | Stable Solution | Accurate Solution | Ideal mesh |
 | -------------------------- | --------------- | ----------------- | ---------- |
 | [[Aspect Ratio]]           | < 1000          | < 10              | 1          |

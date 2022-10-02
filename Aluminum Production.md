@@ -1,4 +1,3 @@
-# Aluminum Production
 Reaction
 $$\ce{2Al2O3 + 3C ->[electric power] 4Al + 3CO2}$$
 - CO<sub>2</sub> emissions - 1.5 kg/kg Al

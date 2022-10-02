@@ -1,5 +1,4 @@
-# Multidimensional Calculus
-
+Calculs involving multiple dimensions:
 $$
 f(x,y)
 $$

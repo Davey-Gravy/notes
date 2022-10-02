@@ -1,5 +1,3 @@
-# Frank-Wolfe Algorithm
-
 Based on first-order Taylor series expansion around current trial solution
 
 1. Evaluate partial derivatives

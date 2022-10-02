@@ -1,5 +1,3 @@
-# C++ Constructors
-
 ```cpp
 class Player 
 {

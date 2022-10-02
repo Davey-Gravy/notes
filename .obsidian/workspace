@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Minimum Viable Product.md",
+            "file": "I can't trust anything I consume.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DTSA 5507.md",
+                "file": "I can't trust anything I consume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c35c14045c11d66",
+  "active": "8e977289ea04358b",
   "lastOpenFiles": [
-    "DTSA 5507.md",
     "Minimum Viable Product.md",
+    "DTSA 5507.md",
     "blue-green deployment.md",
     "Can't Punk Me.md",
     "Can't Make U Change.md",

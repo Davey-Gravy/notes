@@ -1,0 +1,4 @@
+- Offensive fouls
+- Traveling
+- Dominant game causes feelings of helplessness
+	- kinda like LeBron

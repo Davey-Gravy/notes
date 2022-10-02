@@ -1,8 +1,6 @@
 [
   "sliding-panes-obsidian",
-  "table-editor-obsidian",
+  "obsidian-kanban",
   "calendar",
-  "obsidian-git",
-  "note-refactor-obsidian",
-  "table-extended"
+  "table-editor-obsidian"
 ]

@@ -1,5 +1,3 @@
-# Line integrals
-
 What is the area of the surface between a curve and its projection onto a plane?
 
 $$

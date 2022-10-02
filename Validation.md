@@ -1,0 +1,7 @@
+- assessing the accuracy of results
+	- comparison against experimental measurements
+	- comparison against relevant literature
+	- running the same model with 
+		- different turbulence models 
+		- numerics
+	- then compare results

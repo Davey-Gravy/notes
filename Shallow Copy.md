@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 - memberwise copy
 - each data member copied from source object
 - if data member is a pointer

@@ -1,4 +1,3 @@
-# Travelling Salesman Problem
 Date: 27/10/2021
 
 ## Summary

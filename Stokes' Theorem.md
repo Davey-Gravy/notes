@@ -1,5 +1,3 @@
-# Stokes' Theorem
-
 Also known as Kelvin-Stokes Theorem, the fundamental theorem for curls, or the curl theorem
 
 3D version of [[Green's Theorem]]

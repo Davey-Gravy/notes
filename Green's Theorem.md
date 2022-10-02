@@ -1,5 +1,3 @@
-# Green's Theorem
-
 Given a closed region, the sum of "microscopic" circulation within the region $D$ is equal to the macroscopic circulation of the region as a whole $C$:
 
 $$

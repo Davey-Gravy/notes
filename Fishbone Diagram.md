@@ -1,5 +1,3 @@
-# Fishbone Diagram
-
 A diagram used for failure/root cause analysis that categorizes the potential causes of the issue at hand, takes shape of a fish skeleton
 
 ![[fishbone_diagram.png]]

@@ -1,5 +1,3 @@
-# SIMPLE Algorithm
-
 - **S**emi-**I**mplicit **M**ethod for **P**ressure-**L**inked **E**quations
 - Intended to solve the steady-state [[Navier-Stokes Equations]]
 
@@ -14,7 +12,7 @@ $$
 - 4 equations for 4 unknowns ($U_x$, $U_y$, $U_z$, $p$)
 	- $p = p/\rho$ (kinematic pressure)
 
-## Why is this system difficult to solve?
+# Why is this system difficult to solve?
 
 - have equations for $U_x$, $U_y$, and $U_z$, but not $p$
 - velocities $U_x$, $U_y$, and $U_z$ must satisfy continuity
@@ -24,7 +22,8 @@ $$
 The SIMPLE algorithm is a procedure to:
 1. Derive a pressure equation from the momentum and continuity equations
 2. Derive a corrector for the velocity field to ensure continuity is satsified
-## Deriving the Equations
+
+# Deriving the Equations
 
 Rewrite the momentum equations in matrix form:
 
@@ -124,7 +123,7 @@ $$
 \end{align}}
 $$
 
-## Solution Process
+# Solution Process
 
 1. Solve the momentum equations for the uncorrected velocity field
 
@@ -154,7 +153,7 @@ Can be done for other parameters (energy, turbulence, species transport, etc.)
 
 
 
-## Final Thoughts
+# Final Thoughts
 - SIMPLE algorithm called a "*pressure-based*" algorithm
 	- use an equation of state to calculate density (if flow is non-isothermal)
 - "*density-based*" algorithms are preferred for compressible flow

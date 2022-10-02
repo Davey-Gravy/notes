@@ -1,4 +1,3 @@
-# Vehicle Routing Problem
 Date: 20/10/2021
 ## Summary
 - view routes as a graph/network
